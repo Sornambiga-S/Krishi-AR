@@ -1,0 +1,3623 @@
+[
+  {
+    "id": "rice",
+    "name": "Rice (Paddy)",
+    "tamilName": "நெல் (Nel)",
+    "scientificName": "Oryza sativa",
+    "category": "Food and Field Crops",
+    "icon": "🌾",
+    "growthPeriod": "105 – 150 Days",
+    "optimalTemperature": "22°C – 32°C",
+    "waterNeed": "High",
+    "soilType": "Deep clayey and alluvial soils with high water-retention capacity",
+    "sunlight": "Full sunlight; minimum 6 hours daily direct solar radiation",
+    "majorTNRegions": [
+      "Thanjavur",
+      "Tiruvarur",
+      "Nagapattinam",
+      "Mayiladuthurai",
+      "Cuddalore",
+      "Tirunelveli"
+    ],
+    "stages": [
+      {
+        "stage": "Nursery & Seedling",
+        "duration": "20-25 Days",
+        "description": "Mat nursery or wet nursery sprouting; 4-leaf stage ready for transplantation."
+      },
+      {
+        "stage": "Tillering Phase",
+        "duration": "30-40 Days",
+        "description": "Primary and secondary tillers emerge; panicle initiation begins."
+      },
+      {
+        "stage": "Panicle Heading & Flowering",
+        "duration": "20-25 Days",
+        "description": "Exsertion of panicles and anthesis with high humidity requirement."
+      },
+      {
+        "stage": "Grain Filling & Dough Stage",
+        "duration": "25-35 Days",
+        "description": "Milky endosperm hardens into firm golden paddy grains."
+      }
+    ],
+    "commonDiseases": [
+      "Rice Blast (Magnaporthe oryzae)",
+      "Bacterial Leaf Blight (Xanthomonas oryzae)",
+      "Sheath Blight"
+    ],
+    "funFact": "Thanjavur and the Cauvery Delta region form the ancient 'Rice Bowl of Tamil Nadu', cultivating famous heritage rice varieties like Seeraga Samba and Ponni!",
+    "harvestYield": "5.5 – 7.2 tonnes / hectare",
+    "basicPractices": [
+      "Maintain 2–5 cm water ponding during vegetative tillering phase.",
+      "Apply balanced NPK with split nitrogen applications to prevent lodging.",
+      "Incorporate green manure (Daincha or Sunnhemp) 15 days before puddling.",
+      "Use certified TNAU seeds like CR 1009 Sub-1, CO 51, and ADT 45."
+    ],
+    "diseaseKey": "rice-blast",
+    "diseaseName": "Rice Blast",
+    "scientificDisease": "Magnaporthe oryzae",
+    "tamilDisease": "நெல் குலை நோய்",
+    "confidence": 95,
+    "healthStatus": "Needs Attention",
+    "severity": "Medium",
+    "symptoms": [
+      "Spindle-shaped elliptical lesions with gray-white centers and brownish margins on leaf blades",
+      "Neck rot at panicle base resulting in completely empty, chaffy white ears ('Neck Blast')",
+      "Rapid lesion coalescence under high humidity causing complete foliar scorching"
+    ],
+    "cause": "Airborne fungal pathogen Magnaporthe oryzae proliferating in night temperatures of 20-24°C with relative humidity >90% and excessive nitrogen fertilisation.",
+    "prevention": [
+      "Seed treatment with Tricyclazole 75% WP @ 2.0 g/kg seed",
+      "Spray Tricyclazole 75% WP @ 0.6 g/L or Isoprothiolane 40% EC @ 1.5 ml/L at tillering",
+      "Avoid excessive single-dose urea application; use leaf color chart (LCC)",
+      "Adopt resistant varieties like ADT 43, CO 51, and ASD 16"
+    ]
+  },
+  {
+    "id": "maize",
+    "name": "Maize",
+    "tamilName": "மக்காச்சோளம் (Makkacholam)",
+    "scientificName": "Zea mays",
+    "category": "Food and Field Crops",
+    "icon": "🌽",
+    "growthPeriod": "90 – 120 Days",
+    "optimalTemperature": "20°C – 30°C",
+    "waterNeed": "Moderate",
+    "soilType": "Deep, fertile, well-drained sandy loam rich in organic matter",
+    "sunlight": "Intense sunlight; C4 photosynthetic plant with exceptional solar efficiency",
+    "majorTNRegions": [
+      "Perambalur",
+      "Salem",
+      "Dindigul",
+      "Tiruppur",
+      "Erode",
+      "Virudhunagar"
+    ],
+    "stages": [
+      {
+        "stage": "Emergence & Whorl",
+        "duration": "15-20 Days",
+        "description": "Rapid germination; distinct whorl leaves unfold from the central growing point."
+      },
+      {
+        "stage": "Tasseling (Male Flower)",
+        "duration": "25-30 Days",
+        "description": "Terminal male inflorescence (tassel) sheds pollen granules."
+      },
+      {
+        "stage": "Silking & Cob Set",
+        "duration": "15-20 Days",
+        "description": "Silks emerge from ear shoots to intercept pollen grains for ovule fertilisation."
+      },
+      {
+        "stage": "Grain Filling to Maturity",
+        "duration": "30-40 Days",
+        "description": "Kernels pack starch; black layer forms at base of mature grain."
+      }
+    ],
+    "commonDiseases": [
+      "Common Rust (Puccinia sorghi)",
+      "Turcicum Leaf Blight",
+      "Fall Armyworm"
+    ],
+    "funFact": "Perambalur is celebrated as the 'Maize Capital of Tamil Nadu', producing prime grain for poultry feed and bio-starch processing!",
+    "harvestYield": "6.0 – 8.5 tonnes / hectare",
+    "basicPractices": [
+      "Adopt ridge and furrow planting spaced 60 x 20 cm.",
+      "Install pheromone traps @ 12/ha to monitor Fall Armyworm moths.",
+      "Apply zinc sulphate @ 25 kg/ha basal to avoid white bud deficiency.",
+      "Provide critical irrigations at tasseling and silking stages."
+    ],
+    "diseaseKey": "maize-rust",
+    "diseaseName": "Common Rust",
+    "scientificDisease": "Puccinia sorghi",
+    "tamilDisease": "செம்புள்ளி நோய் / துரு நோய்",
+    "confidence": 94,
+    "healthStatus": "Moderate",
+    "severity": "Medium",
+    "symptoms": [
+      "Golden-brown to cinnamon-brown powdery pustules on both upper and lower leaf surfaces",
+      "Pustules rupture epidermal tissue, shedding millions of urediniospores",
+      "Premature chlorosis and drying of foliage, reducing cob filling"
+    ],
+    "cause": "Airborne fungal spores of Puccinia sorghi carried by wind during cool, moist weather (16-25°C).",
+    "prevention": [
+      "Spray Mancozeb 75% WP @ 2.0 g/L at the first sign of pustules",
+      "Ensure balanced NPK nutrition; avoid excess nitrogen and supply adequate potash",
+      "Grow tolerant hybrid varieties recommended by TNAU (CO 6, COH(M) 8)"
+    ]
+  },
+  {
+    "id": "wheat",
+    "name": "Wheat",
+    "tamilName": "கோதுமை (Godhumai)",
+    "scientificName": "Triticum aestivum",
+    "category": "Food and Field Crops",
+    "icon": "🌾",
+    "growthPeriod": "100 – 120 Days",
+    "optimalTemperature": "14°C – 24°C",
+    "waterNeed": "Moderate",
+    "soilType": "Well-drained rich clay loams and silt loams with neutral pH",
+    "sunlight": "Bright sunshine with cool nights during vegetative and tillering phases",
+    "majorTNRegions": [
+      "Nilgiris (Hill Tracts)",
+      "Dindigul (Kodaikanal)",
+      "Krishnagiri"
+    ],
+    "stages": [
+      {
+        "stage": "CRI (Crown Root Initiation)",
+        "duration": "20-25 Days",
+        "description": "Crown roots anchor the seedling; most critical irrigation stage."
+      },
+      {
+        "stage": "Tillering & Jointing",
+        "duration": "25-35 Days",
+        "description": "Secondary tillers form and stem nodes elongate upward."
+      },
+      {
+        "stage": "Heading & Flowering",
+        "duration": "20-25 Days",
+        "description": "Spikes emerge; pollination occurs inside glumes."
+      },
+      {
+        "stage": "Ripening & Grain Hardening",
+        "duration": "25-30 Days",
+        "description": "Kernel moisture drops below 14%; spikes turn golden-straw."
+      }
+    ],
+    "commonDiseases": [
+      "Stem Rust (Puccinia graminis)",
+      "Loose Smut",
+      "Powdery Mildew"
+    ],
+    "funFact": "Wheat in Tamil Nadu is traditionally grown in the temperate high-altitude regions of the Nilgiris and Palani hills, prized for artisanal flour milling!",
+    "harvestYield": "3.5 – 5.0 tonnes / hectare",
+    "basicPractices": [
+      "Irrigate precisely at Crown Root Initiation (21 DAS) and flowering stages.",
+      "Treat seed with Carboxin 75% WP @ 2.0 g/kg seed to prevent smut.",
+      "Maintain soil organic carbon with compost additions before sowing."
+    ],
+    "diseaseKey": "wheat-stem-rust",
+    "diseaseName": "Stem Rust (Black Rust)",
+    "scientificDisease": "Puccinia graminis f. sp. tritici",
+    "tamilDisease": "கருந்துரு நோய்",
+    "confidence": 92,
+    "healthStatus": "Critical",
+    "severity": "High",
+    "symptoms": [
+      "Reddish-brown to dark elongated pustules erupting through stem and leaf sheaths",
+      "Torn epidermal fringes surrounding necrotic rust pustules",
+      "Stems weaken, causing catastrophic lodging of ripe wheat ears"
+    ],
+    "cause": "Fungal pathogen Puccinia graminis thriving under warm days (20-30°C) with moist dew.",
+    "prevention": [
+      "Foliar spray of Propiconazole 25% EC @ 1.0 ml/L at onset",
+      "Cultivate rust-resistant varieties verified by Wellington Regional Research Station (IARI)",
+      "Avoid late sowing to bypass peak rust sporulation periods"
+    ]
+  },
+  {
+    "id": "pearl-millet",
+    "name": "Pearl Millet (Kambu)",
+    "tamilName": "கம்பு (Kambu)",
+    "scientificName": "Pennisetum glaucum",
+    "category": "Food and Field Crops",
+    "icon": "🌾",
+    "growthPeriod": "75 – 90 Days",
+    "optimalTemperature": "25°C – 38°C",
+    "waterNeed": "Low",
+    "soilType": "Light sandy loams, gravelly red soils, and marginal rainfed tracts",
+    "sunlight": "High solar radiation; exceptional drought tolerance and heat endurance",
+    "majorTNRegions": [
+      "Villupuram",
+      "Cuddalore",
+      "Thoothukudi",
+      "Tirunelveli",
+      "Virudhunagar",
+      "Karur"
+    ],
+    "stages": [
+      {
+        "stage": "Seedling Emergence",
+        "duration": "10-15 Days",
+        "description": "Rapid germination even in semi-arid soils; deep taproot anchors."
+      },
+      {
+        "stage": "Tillering & Stem Extension",
+        "duration": "20-25 Days",
+        "description": "Multiple basal tillers produce thick solid canes."
+      },
+      {
+        "stage": "Earhead Emergence",
+        "duration": "15-20 Days",
+        "description": "Cylindrical compact floral heads emerge, showing protogynous stigmas."
+      },
+      {
+        "stage": "Grain Maturation",
+        "duration": "20-25 Days",
+        "description": "Small grey-pearl grains harden inside bristles; ready for harvest."
+      }
+    ],
+    "commonDiseases": [
+      "Downy Mildew (Green Ear Disease)",
+      "Ergot",
+      "Rust"
+    ],
+    "funFact": "'Kambu Koozh' (fermented pearl millet porridge) is Tamil Nadu's traditional natural cooling summer drink, celebrated for its high iron and calcium content!",
+    "harvestYield": "2.8 – 4.2 tonnes / hectare",
+    "basicPractices": [
+      "Sow in rows 45 x 15 cm with 5 kg seed/ha treated with bio-fertilizers.",
+      "Intercrop with cowpea or green gram in 4:1 ratio for risk diversification.",
+      "Apply Azospirillum and Phosphobacteria @ 2 kg/ha mixed with FYM."
+    ],
+    "diseaseKey": "pearl-millet-downy-mildew",
+    "diseaseName": "Downy Mildew (Green Ear)",
+    "scientificDisease": "Sclerospora graminicola",
+    "tamilDisease": "அடிச்சாம்பல் / பச்சைக்கதிர் நோய்",
+    "confidence": 93,
+    "healthStatus": "Needs Attention",
+    "severity": "High",
+    "symptoms": [
+      "Chlorotic yellow-green striping along leaf blades from base to tip",
+      "Downy white fungal growth on lower leaf surfaces under morning humidity",
+      "Floral parts in the earhead transform into twisted leafy structures ('Green Ear')"
+    ],
+    "cause": "Soil-borne and seed-borne oomycete Sclerospora graminicola with persistent oospores.",
+    "prevention": [
+      "Seed dressing with Metalaxyl 35% WS @ 6.0 g/kg seed",
+      "Foliar spray with Metalaxyl-Mancozeb @ 2.0 g/L at 20 DAS if symptoms appear",
+      "Rogue out and burn infected plants early to prevent soil oospore accumulation"
+    ]
+  },
+  {
+    "id": "finger-millet",
+    "name": "Finger Millet (Ragi)",
+    "tamilName": "கேழ்வரகு / ராகி (Kezhvaragu / Ragi)",
+    "scientificName": "Eleusine coracana",
+    "category": "Food and Field Crops",
+    "icon": "🌾",
+    "growthPeriod": "95 – 120 Days",
+    "optimalTemperature": "20°C – 32°C",
+    "waterNeed": "Low",
+    "soilType": "Red loamy, sandy, and laterite soils with good internal drainage",
+    "sunlight": "Bright tropical sun; tolerates moderate shade and intermittent drought",
+    "majorTNRegions": [
+      "Dharmapuri",
+      "Krishnagiri",
+      "Salem",
+      "Vellore",
+      "Tiruvannamalai",
+      "Erode"
+    ],
+    "stages": [
+      {
+        "stage": "Transplanting / Direct Seed",
+        "duration": "15-20 Days",
+        "description": "Transplanted 21-day seedlings establish fibrous root mat."
+      },
+      {
+        "stage": "Vegetative Tillering",
+        "duration": "30-40 Days",
+        "description": "Produces 4 to 8 productive culms per hill."
+      },
+      {
+        "stage": "Finger Head Emergence",
+        "duration": "20-25 Days",
+        "description": "Whirled digital fingers (4 to 7 spikes) spread like hand fingers."
+      },
+      {
+        "stage": "Grain Filling & Curing",
+        "duration": "25-30 Days",
+        "description": "Globular reddish-brown grains turn dark and dry out."
+      }
+    ],
+    "commonDiseases": [
+      "Ragi Blast (Magnaporthe grisea)",
+      "Brown Spot",
+      "Foot Rot"
+    ],
+    "funFact": "Finger millet contains ten times more calcium than rice or wheat, making 'Ragi Kali' and 'Ragi Dosa' staple superfoods across rural Tamil Nadu!",
+    "harvestYield": "3.0 – 4.5 tonnes / hectare",
+    "basicPractices": [
+      "Transplant 3-week-old seedlings spaced 22.5 x 10 cm for maximum tillering.",
+      "Apply 10 tonnes FYM/ha alongside 60:30:30 kg NPK/ha.",
+      "Weed at 15 and 30 DAT to prevent canopy choking."
+    ],
+    "diseaseKey": "finger-millet-blast",
+    "diseaseName": "Finger Millet Blast",
+    "scientificDisease": "Magnaporthe grisea",
+    "tamilDisease": "கேழ்வரகு குலை நோய்",
+    "confidence": 94,
+    "healthStatus": "Needs Attention",
+    "severity": "High",
+    "symptoms": [
+      "Spindle-shaped lesions with ashy-grey centers and dark brown margins on leaves",
+      "Black ring necrosis on neck of the fingers ('Neck Blast'), preventing grain fill",
+      "Bending and snapping of earhead at finger junctions"
+    ],
+    "cause": "Airborne fungal pathogen Magnaporthe grisea favored by cool humid nights and cloudy days.",
+    "prevention": [
+      "Seed treatment with Pseudomonas fluorescens @ 10 g/kg seed",
+      "Spray Tricyclazole 75% WP @ 0.6 g/L or Kitazin 48% EC @ 2.0 ml/L at heading",
+      "Cultivate resistant varieties like GPU 28, CO (Ra) 14, and Paiyur 2"
+    ]
+  },
+  {
+    "id": "sorghum",
+    "name": "Sorghum (Cholam)",
+    "tamilName": "சோளம் (Cholam)",
+    "scientificName": "Sorghum bicolor",
+    "category": "Food and Field Crops",
+    "icon": "🌾",
+    "growthPeriod": "90 – 110 Days",
+    "optimalTemperature": "25°C – 35°C",
+    "waterNeed": "Low",
+    "soilType": "Clayey black cotton soils (vertisols) and deep red loams",
+    "sunlight": "High solar exposure; remarkable drought-dormancy mechanism",
+    "majorTNRegions": [
+      "Coimbatore",
+      "Tiruppur",
+      "Salem",
+      "Namakkal",
+      "Dindigul",
+      "Theni"
+    ],
+    "stages": [
+      {
+        "stage": "Seedling Establishment",
+        "duration": "15-20 Days",
+        "description": "Rapid deep taproot system penetrates up to 1.5 meters deep."
+      },
+      {
+        "stage": "Stem Elongation",
+        "duration": "30-35 Days",
+        "description": "Thick juicy culm develops waxy cuticle on leaf sheaths."
+      },
+      {
+        "stage": "Booting & Panicle Emergence",
+        "duration": "15-20 Days",
+        "description": "Large branched terminal panicle emerges from the boot leaf."
+      },
+      {
+        "stage": "Grain Maturation & Drying",
+        "duration": "25-30 Days",
+        "description": "Round grains ripen from milky white to pearly cream or red."
+      }
+    ],
+    "commonDiseases": [
+      "Anthracnose & Red Rot",
+      "Grain Mold",
+      "Downy Mildew"
+    ],
+    "funFact": "Sorghum stalks are so rich in natural sweet carbohydrates that Tamil Nadu livestock farmers value the green fodder as much as the harvested grain!",
+    "harvestYield": "3.5 – 5.2 tonnes / hectare",
+    "basicPractices": [
+      "Sow in flat beds or ridges spaced 45 x 15 cm with 10 kg seed/ha.",
+      "Thin seedlings at 15 DAS leaving one vigorous seedling per hill.",
+      "Provide one life-saving irrigation at boot leaf stage during dry spells."
+    ],
+    "diseaseKey": "sorghum-anthracnose",
+    "diseaseName": "Sorghum Anthracnose",
+    "scientificDisease": "Colletotrichum sublineolum",
+    "tamilDisease": "சோளம் செம்புள்ளி நோய்",
+    "confidence": 91,
+    "healthStatus": "Needs Attention",
+    "severity": "Medium",
+    "symptoms": [
+      "Circular to elliptical red or purplish spots with central straw-colored necrosis",
+      "Black minute fruiting bodies (acervuli) visible in concentric rings inside spots",
+      "Internal stalk pith turns crimson red when stem rot occurs"
+    ],
+    "cause": "Fungal pathogen Colletotrichum sublineolum spreading via rain splash during warm humid spells.",
+    "prevention": [
+      "Seed treatment with Thiram or Captan @ 3.0 g/kg seed",
+      "Spray Carbendazim 50% WP @ 1.0 g/L or Mancozeb @ 2.0 g/L at first appearance",
+      "Adopt balanced fertilisation avoiding excess nitrogen"
+    ]
+  },
+  {
+    "id": "green-gram",
+    "name": "Green Gram (Pachai Payaru)",
+    "tamilName": "பச்சைப்பயறு (Pachai Payaru)",
+    "scientificName": "Vigna radiata",
+    "category": "Food and Field Crops",
+    "icon": "🌱",
+    "growthPeriod": "60 – 75 Days",
+    "optimalTemperature": "25°C – 35°C",
+    "waterNeed": "Low",
+    "soilType": "Well-drained loams and red clay soils; intolerant of waterlogging",
+    "sunlight": "Full sun; fixes atmospheric nitrogen through root nodule Rhizobium",
+    "majorTNRegions": [
+      "Thanjavur (Rice Fallows)",
+      "Tiruvarur",
+      "Nagapattinam",
+      "Thoothukudi",
+      "Virudhunagar"
+    ],
+    "stages": [
+      {
+        "stage": "Germination & Nodulation",
+        "duration": "10-15 Days",
+        "description": "Epigeal emergence; active Rhizobia nodulate taproot."
+      },
+      {
+        "stage": "Vegetative Branching",
+        "duration": "15-20 Days",
+        "description": "Trifoliate leaves proliferate, forming a compact bushy canopy."
+      },
+      {
+        "stage": "Yellow Flowering",
+        "duration": "12-15 Days",
+        "description": "Bright yellow self-pollinating flowers open in terminal clusters."
+      },
+      {
+        "stage": "Pod Setting & Drying",
+        "duration": "18-22 Days",
+        "description": "Slender pods turn from green to black; ready for split harvests."
+      }
+    ],
+    "commonDiseases": [
+      "Mungbean Yellow Mosaic Virus (MYMV)",
+      "Powdery Mildew",
+      "Cercospora Leaf Spot"
+    ],
+    "funFact": "Green gram is the superstar 'Rice Fallow Pulse' of the Cauvery Delta, sown into standing paddy stubbles 5 days before harvest to utilize residual soil moisture!",
+    "harvestYield": "800 – 1,200 kg / hectare",
+    "basicPractices": [
+      "Treat seeds with Rhizobium culture (CO 1) @ 600 g/ha to boost root nodules.",
+      "Broadcast in standing rice crop at 25 kg/ha seed rate.",
+      "Foliar spray 2% DAP at flower initiation and 15 days later to boost pod set."
+    ],
+    "diseaseKey": "green-gram-mymv",
+    "diseaseName": "Yellow Mosaic Disease",
+    "scientificDisease": "Mungbean Yellow Mosaic Virus",
+    "tamilDisease": "மஞ்சள் தேமல் நோய்",
+    "confidence": 93,
+    "healthStatus": "Critical",
+    "severity": "High",
+    "symptoms": [
+      "Vibrant bright yellow irregular patches alternating with green on leaflets",
+      "Complete chlorosis of leaves, turning leaves golden-yellow and brittle",
+      "Severe stunting with few, deformed pods containing shrivelled seeds"
+    ],
+    "cause": "Geminivirus transmitted by the whitefly vector (Bemisia tabaci).",
+    "prevention": [
+      "Seed treatment with Imidacloprid 70% WS @ 5.0 ml/kg seed",
+      "Spray Thiamethoxam 25% WG @ 0.3 g/L or Dimethoate 30% EC @ 1.7 ml/L to control whiteflies",
+      "Install yellow sticky traps @ 12 traps/ha in the field",
+      "Cultivate MYMV-resistant varieties like VBN (Gg) 2 and VBN (Gg) 3"
+    ]
+  },
+  {
+    "id": "black-gram",
+    "name": "Black Gram (Ulundhu)",
+    "tamilName": "உளுந்து (Ulundhu)",
+    "scientificName": "Vigna mungo",
+    "category": "Food and Field Crops",
+    "icon": "🌱",
+    "growthPeriod": "65 – 75 Days",
+    "optimalTemperature": "25°C – 35°C",
+    "waterNeed": "Low",
+    "soilType": "Loamy to heavy black cotton soils with good moisture retention",
+    "sunlight": "Direct tropical solar irradiance; fixes 40 kg N/ha naturally",
+    "majorTNRegions": [
+      "Nagapattinam",
+      "Tiruvarur",
+      "Cuddalore",
+      "Villupuram",
+      "Thoothukudi",
+      "Salem"
+    ],
+    "stages": [
+      {
+        "stage": "Sprouting & Root Nodules",
+        "duration": "10-15 Days",
+        "description": "Rapid germination; nitrogen-fixing bacterial colonies establish."
+      },
+      {
+        "stage": "Bushy Canopy Growth",
+        "duration": "20-25 Days",
+        "description": "Densely pubescent stems and hairy trifoliate leaves develop."
+      },
+      {
+        "stage": "Flowering & Pod Initiation",
+        "duration": "15-18 Days",
+        "description": "Yellow blossoms set hairy cylindrical pods."
+      },
+      {
+        "stage": "Pod Blackening & Ripening",
+        "duration": "18-22 Days",
+        "description": "Pods turn charcoal black; seeds achieve characteristic high mucilage."
+      }
+    ],
+    "commonDiseases": [
+      "Yellow Mosaic Virus (MYMV)",
+      "Root Rot (Macrophomina phaseolina)",
+      "Powdery Mildew"
+    ],
+    "funFact": "Black gram provides the essential gelatinous mucilage protein required to naturally ferment authentic Tamil Nadu Idli and Medu Vada batters!",
+    "harvestYield": "850 – 1,300 kg / hectare",
+    "basicPractices": [
+      "Treat seed with Trichoderma viride @ 4 g/kg + Rhizobium @ 25 g/kg.",
+      "Spray 2% DAP or TNAU Pulse Wonder @ 5 kg/ha at flowering to halt flower drop.",
+      "Dry pods thoroughly to 10% moisture before mechanical threshing."
+    ],
+    "diseaseKey": "black-gram-root-rot",
+    "diseaseName": "Black Gram Root Rot",
+    "scientificDisease": "Macrophomina phaseolina",
+    "tamilDisease": "வேரழுகல் நோய் / உலர் அழுகல்",
+    "confidence": 91,
+    "healthStatus": "Critical",
+    "severity": "High",
+    "symptoms": [
+      "Sudden wilting and drooping of top leaves during dry, sunny spells",
+      "Black dry rot lesions encircling the collar and taproot region",
+      "Minute black sclerotia visible beneath shredded bark of dead taproots"
+    ],
+    "cause": "Soil-borne fungus Macrophomina phaseolina attacking moisture-stressed roots.",
+    "prevention": [
+      "Soil application of Trichoderma viride @ 2.5 kg/ha mixed with 50 kg well-decomposed FYM",
+      "Seed treatment with Carbendazim @ 2.0 g/kg seed",
+      "Avoid prolonged soil moisture stress during pod development"
+    ]
+  },
+  {
+    "id": "red-gram",
+    "name": "Red Gram (Thuvaram Paruppu)",
+    "tamilName": "துவரம் பருப்பு (Thuvaram Paruppu)",
+    "scientificName": "Cajanus cajan",
+    "category": "Food and Field Crops",
+    "icon": "🌿",
+    "growthPeriod": "140 – 180 Days",
+    "optimalTemperature": "20°C – 35°C",
+    "waterNeed": "Low",
+    "soilType": "Deep, well-drained loams and red laterites with deep subsoil permeability",
+    "sunlight": "Full direct sunlight; deep taproots mine water from 2 meters depth",
+    "majorTNRegions": [
+      "Dharmapuri",
+      "Krishnagiri",
+      "Salem",
+      "Tiruvannamalai",
+      "Vellore",
+      "Pudukkottai"
+    ],
+    "stages": [
+      {
+        "stage": "Seedling to Early Shrub",
+        "duration": "30-40 Days",
+        "description": "Slow initial top growth while deep taproot establishes."
+      },
+      {
+        "stage": "Extensive Branching",
+        "duration": "45-60 Days",
+        "description": "Develops into a woody perennial-like shrub 1.5 to 2.5 meters tall."
+      },
+      {
+        "stage": "Profuse Yellow Flowering",
+        "duration": "30-40 Days",
+        "description": "Abundant yellow and orange-veined flowers attract pollinators."
+      },
+      {
+        "stage": "Pod Filling to Harvest",
+        "duration": "35-45 Days",
+        "description": "Flattish hairy pods ripen; beans yield nutritious dhal."
+      }
+    ],
+    "commonDiseases": [
+      "Sterility Mosaic Disease (SMD)",
+      "Fusarium Wilt",
+      "Pod Borer Complex"
+    ],
+    "funFact": "Red gram dhal is the indispensable culinary heart of Tamil Nadu 'Sambar', providing essential protein to millions of households daily!",
+    "harvestYield": "1.2 – 1.8 tonnes / hectare",
+    "basicPractices": [
+      "Nip apical terminal shoots at 45 DAS to induce profuse lateral branches.",
+      "Intercrop with groundnut or ragi in 1:6 ratio for higher economic returns.",
+      "Install pheromone traps for Helicoverpa pod borer monitoring."
+    ],
+    "diseaseKey": "red-gram-smd",
+    "diseaseName": "Sterility Mosaic Disease",
+    "scientificDisease": "Pigeonpea Sterility Mosaic Virus (PPSMV)",
+    "tamilDisease": "மலட்டுத் தேமல் நோய்",
+    "confidence": 93,
+    "healthStatus": "Critical",
+    "severity": "High",
+    "symptoms": [
+      "Mosaic mottling, vein clearing, and severe reduction in leaflet size",
+      "Bushy, stunted vegetative growth with excessive secondary branching",
+      "Complete absence of flowers or pods; plants remain entirely sterile"
+    ],
+    "cause": "Tenuivirus transmitted by the microscopic eriophyid mite (Aceria cajani).",
+    "prevention": [
+      "Spray Fenazaquin 10% EC @ 1.5 ml/L or Wettable Sulphur @ 3.0 g/L to control mite vectors",
+      "Rogue out infected plants immediately upon first sighting in early stages",
+      "Cultivate SMD-resistant varieties like VBN (Rg) 3, CO 7, and BSR 1"
+    ]
+  },
+  {
+    "id": "groundnut",
+    "name": "Groundnut",
+    "tamilName": "வேர்க்கடலை / நிலக்கடலை (Verkadalai)",
+    "scientificName": "Arachis hypogaea",
+    "category": "Food and Field Crops",
+    "icon": "🥜",
+    "growthPeriod": "100 – 125 Days",
+    "optimalTemperature": "24°C – 30°C",
+    "waterNeed": "Moderate",
+    "soilType": "Light, friable, loose sandy loam rich in calcium; compacted soils impede pegging",
+    "sunlight": "Full direct sunlight; minimum 7 hours daily solar irradiance",
+    "majorTNRegions": [
+      "Tiruvannamalai",
+      "Villupuram",
+      "Namakkal",
+      "Vellore",
+      "Erode",
+      "Cuddalore"
+    ],
+    "stages": [
+      {
+        "stage": "Emergence & Branching",
+        "duration": "15-20 Days",
+        "description": "Quadrifoliate leaves emerge; lateral branches spread close to ground."
+      },
+      {
+        "stage": "Yellow Flowering",
+        "duration": "20-25 Days",
+        "description": "Bright golden-yellow self-pollinating flowers bloom at dawn."
+      },
+      {
+        "stage": "Peg Penetration (Pegging)",
+        "duration": "15-20 Days",
+        "description": "Fertilised flower stems (pegs) bend downward and penetrate 3–5 cm into soil."
+      },
+      {
+        "stage": "Underground Pod Bulking",
+        "duration": "35-45 Days",
+        "description": "Peg tips swell horizontally into two-seeded fibrous pods underground."
+      }
+    ],
+    "commonDiseases": [
+      "Tikka Leaf Spot",
+      "Rust (Puccinia arachidis)",
+      "Collar Rot"
+    ],
+    "funFact": "Tiruvannamalai and Villupuram are Tamil Nadu's groundnut heartlands, operating thousands of traditional stone cold-presses (Mara Chekku) for pure unrefined oil!",
+    "harvestYield": "2.2 – 3.5 tonnes / hectare",
+    "basicPractices": [
+      "Apply Gypsum @ 400 kg/ha at 40–45 DAS (flowering/pegging) to supply essential calcium for pod filling.",
+      "Avoid earthing up or disturbing soil after peg penetration has begun.",
+      "Treat seed with Trichoderma viride @ 4 g/kg seed to prevent collar rot."
+    ],
+    "diseaseKey": "groundnut-tikka",
+    "diseaseName": "Tikka Leaf Spot",
+    "scientificDisease": "Phaeoisariopsis personata",
+    "tamilDisease": "திக்கா இலைப்புள்ளி நோய்",
+    "confidence": 94,
+    "healthStatus": "Needs Attention",
+    "severity": "High",
+    "symptoms": [
+      "Small, circular to irregular dark brown to black necrotic spots on leaves",
+      "Prominent bright yellow chlorotic halos encircling dark lesions",
+      "Premature defoliation leaving stems completely bare, impairing pod bulking"
+    ],
+    "cause": "Fungal pathogens thriving in warm temperatures (25-30°C) with high humidity and prolonged leaf wetness.",
+    "prevention": [
+      "Spray Chlorothalonil 75% WP @ 2.0 g/L or Mancozeb @ 2.0 g/L at 40 and 55 DAS",
+      "Spray Carbendazim 12% + Mancozeb 63% WP @ 1.5 g/L if disease spreads rapidly",
+      "Adopt crop rotation with non-legumes like sorghum or maize"
+    ]
+  },
+  {
+    "id": "cotton",
+    "name": "Cotton",
+    "tamilName": "பருத்தி (Paruthi)",
+    "scientificName": "Gossypium hirsutum",
+    "category": "Food and Field Crops",
+    "icon": "☁️",
+    "growthPeriod": "150 – 180 Days",
+    "optimalTemperature": "21°C – 35°C",
+    "waterNeed": "Moderate",
+    "soilType": "Deep black cotton soils (vertisols) and fertile deep clay loams",
+    "sunlight": "Long sunny warm days; sensitive to frost and waterlogging",
+    "majorTNRegions": [
+      "Coimbatore",
+      "Tiruppur",
+      "Virudhunagar",
+      "Salem",
+      "Perambalur",
+      "Madurai"
+    ],
+    "stages": [
+      {
+        "stage": "Vegetative Branching",
+        "duration": "30-40 Days",
+        "description": "Forms monopodial (vegetative) and sympodial (fruiting) branches."
+      },
+      {
+        "stage": "Squaring (Flower Buds)",
+        "duration": "25-30 Days",
+        "description": "Pyramidal floral buds (squares) develop inside protective bracts."
+      },
+      {
+        "stage": "Flowering & Boll Setting",
+        "duration": "35-45 Days",
+        "description": "Cream blossoms turn pink post-pollination; spherical green bolls form."
+      },
+      {
+        "stage": "Boll Bursting & Fluffing",
+        "duration": "45-55 Days",
+        "description": "Mature bolls dehisce, revealing pure white cellulosic lint fiber."
+      }
+    ],
+    "commonDiseases": [
+      "Bacterial Blight / Black Arm",
+      "Grey Mildew",
+      "Boll Rot Complex"
+    ],
+    "funFact": "Coimbatore is historically hailed as the 'Manchester of South India' due to hundreds of textile mills fueled by Tamil Nadu cotton farming!",
+    "harvestYield": "2.0 – 3.2 tonnes / hectare",
+    "basicPractices": [
+      "Maintain plant geometry of 90 x 45 cm for hybrid varieties.",
+      "Spray 1% Magnesium Sulphate + 1% Urea at 60 and 90 DAS to prevent leaf reddening.",
+      "Install pheromone traps @ 12/ha to track Pink Bollworm infestations."
+    ],
+    "diseaseKey": "cotton-blight",
+    "diseaseName": "Bacterial Blight (Black Arm)",
+    "scientificDisease": "Xanthomonas citri pv. malvacearum",
+    "tamilDisease": "பாக்டீரியா இலைக்கருகல் / கருங்கால் நோய்",
+    "confidence": 92,
+    "healthStatus": "Needs Attention",
+    "severity": "High",
+    "symptoms": [
+      "Angular, water-soaked, vein-bounded brown lesions on the foliage",
+      "Black elongated lesions on stems and petioles causing stem snapping ('Black Arm')",
+      "Water-soaked circular dark lesions on green bolls causing premature drop"
+    ],
+    "cause": "Seed-borne and rain-splashed bacterium Xanthomonas citri pv. malvacearum.",
+    "prevention": [
+      "Acid delinting of seeds with concentrated H2SO4 @ 100 ml/kg seed",
+      "Foliar spray of Copper Oxychloride 50% WP @ 2.5 g/L + Streptocycline @ 0.1 g/L",
+      "Maintain field sanitation and destroy post-harvest cotton stalks"
+    ]
+  },
+  {
+    "id": "sugarcane",
+    "name": "Sugarcane",
+    "tamilName": "கரும்பு (Karumbu)",
+    "scientificName": "Saccharum officinarum",
+    "category": "Food and Field Crops",
+    "icon": "🎋",
+    "growthPeriod": "10 – 12 Months",
+    "optimalTemperature": "26°C – 38°C",
+    "waterNeed": "High",
+    "soilType": "Deep, well-drained, rich alluvial loams and heavy clay loams",
+    "sunlight": "High solar radiation; exceptional C4 photosynthetic efficiency",
+    "majorTNRegions": [
+      "Villupuram",
+      "Cuddalore",
+      "Erode",
+      "Thanjavur",
+      "Tiruchirappalli",
+      "Salem"
+    ],
+    "stages": [
+      {
+        "stage": "Sett Germination",
+        "duration": "30-45 Days",
+        "description": "Two-budded setts sprout underground; primary roots anchor."
+      },
+      {
+        "stage": "Tillering & Formative",
+        "duration": "60-90 Days",
+        "description": "Clump tillers multiply; earthing-up provides mechanical support."
+      },
+      {
+        "stage": "Grand Growth Phase",
+        "duration": "120-180 Days",
+        "description": "Rapid internode elongation; culms accumulate sucrose juice."
+      },
+      {
+        "stage": "Ripening & Maturity",
+        "duration": "60-90 Days",
+        "description": "Vegetative growth slows; sucrose content peaks across stalk nodes."
+      }
+    ],
+    "commonDiseases": [
+      "Red Rot (Colletotrichum falcatum)",
+      "Smut",
+      "Grassy Shoot Disease"
+    ],
+    "funFact": "Sugarcane is the sacred centerpiece of the harvest festival 'Pongal' in Tamil Nadu, where whole stalks are tied around earthen cooking pots to welcome prosperity!",
+    "harvestYield": "100 – 140 tonnes / hectare",
+    "basicPractices": [
+      "Plant two-budded setts treated with Carbendazim 0.1% in deep furrows.",
+      "Adopt wide-row planting (150 cm spacing) with subsurface drip fertigation.",
+      "Perform de-trashing of dry lower leaves at 5th and 7th months to improve aeration."
+    ],
+    "diseaseKey": "sugarcane-red-rot",
+    "diseaseName": "Sugarcane Red Rot",
+    "scientificDisease": "Colletotrichum falcatum",
+    "tamilDisease": "கரும்பு செவ்வழுகல் நோய்",
+    "confidence": 94,
+    "healthStatus": "Critical",
+    "severity": "High",
+    "symptoms": [
+      "Third or fourth leaf from the top turns yellow, droops, and withers along margins",
+      "Internal pith reveals deep blood-red discoloration with diagnostic white cross-bands",
+      "Split stalks emit a distinct sour alcoholic fermentation odor"
+    ],
+    "cause": "Sett-borne and water-borne fungus Colletotrichum falcatum entering through root primordia or borer holes.",
+    "prevention": [
+      "Dip setts in Carbendazim 50% WP @ 1.0 g/L for 15 minutes before planting",
+      "Rogue out and incinerate infected clumps with root systems",
+      "Use certified disease-free tissue culture seed setts (CoC 24, Co 86032)"
+    ]
+  },
+  {
+    "id": "sunflower",
+    "name": "Sunflower",
+    "tamilName": "சூரியகாந்தி (Sooriyakanthi)",
+    "scientificName": "Helianthus annuus",
+    "category": "Food and Field Crops",
+    "icon": "🌻",
+    "growthPeriod": "80 – 95 Days",
+    "optimalTemperature": "20°C – 32°C",
+    "waterNeed": "Low",
+    "soilType": "Deep, fertile, neutral black cotton soils and loamy soils",
+    "sunlight": "High heliotropism; young floral buds track the sun from east to west daily",
+    "majorTNRegions": [
+      "Dindigul",
+      "Dharmapuri",
+      "Krishnagiri",
+      "Tirunelveli",
+      "Virudhunagar",
+      "Karur"
+    ],
+    "stages": [
+      {
+        "stage": "Vegetative Expansion",
+        "duration": "20-25 Days",
+        "description": "Large cordate leaves arrange spirally on a thick bristly stalk."
+      },
+      {
+        "stage": "Star Bud Formation",
+        "duration": "15-20 Days",
+        "description": "Terminal inflorescence head appears surrounded by protective involucral bracts."
+      },
+      {
+        "stage": "Radiant Flowering",
+        "duration": "15-18 Days",
+        "description": "Golden ray florets encircle thousands of disk florets pollinated by bees."
+      },
+      {
+        "stage": "Seed Filling to Maturity",
+        "duration": "25-30 Days",
+        "description": "Back of the capitulum turns lemon-yellow; seeds accumulate 40% premium oil."
+      }
+    ],
+    "commonDiseases": [
+      "Alternaria Leaf Blight",
+      "Head Rot",
+      "Necrosis Disease"
+    ],
+    "funFact": "Sunflowers exhibit natural heliotropism: young flower heads track the path of the sun from dawn to dusk to warm florets and attract pollinators!",
+    "harvestYield": "1.5 – 2.2 tonnes / hectare",
+    "basicPractices": [
+      "Maintain honeybee hives @ 5 hives/ha to maximize cross-pollination and seed set.",
+      "Spray Borax @ 2.0 g/L at star bud stage to eliminate chaffy center seeds.",
+      "Space plants at 60 x 30 cm with one plant per hill."
+    ],
+    "diseaseKey": "sunflower-alternaria",
+    "diseaseName": "Alternaria Leaf Blight",
+    "scientificDisease": "Alternaria helianthi",
+    "tamilDisease": "சூரியகாந்தி இலைக்கருகல் நோய்",
+    "confidence": 92,
+    "healthStatus": "Needs Attention",
+    "severity": "Medium",
+    "symptoms": [
+      "Dark brown circular to irregular spots with concentric rings on leaves",
+      "Lesions coalesce causing large necrotic patches and leaf drooping",
+      "Dark brown elongated lesions on stems and ray florets"
+    ],
+    "cause": "Seed-borne and airborne fungal pathogen Alternaria helianthi.",
+    "prevention": [
+      "Seed treatment with Mancozeb @ 3.0 g/kg seed",
+      "Foliar spray with Mancozeb 75% WP @ 2.0 g/L or Propiconazole @ 1.0 ml/L at 45 DAS",
+      "Destroy infected crop residues after harvest"
+    ]
+  },
+  {
+    "id": "sesame",
+    "name": "Sesame (Ellu)",
+    "tamilName": "எள் (Ellu)",
+    "scientificName": "Sesamum indicum",
+    "category": "Food and Field Crops",
+    "icon": "🌱",
+    "growthPeriod": "75 – 85 Days",
+    "optimalTemperature": "25°C – 35°C",
+    "waterNeed": "Low",
+    "soilType": "Well-drained light sandy loams and red soils; extremely sensitive to standing water",
+    "sunlight": "Abundant bright sunshine; drought-tolerant summer oilseed",
+    "majorTNRegions": [
+      "Villupuram",
+      "Erode",
+      "Cuddalore",
+      "Salem",
+      "Thanjavur",
+      "Karur"
+    ],
+    "stages": [
+      {
+        "stage": "Emergence & Branching",
+        "duration": "15-20 Days",
+        "description": "Minute seeds emerge; opposite leaves branch from square stems."
+      },
+      {
+        "stage": "Tubular Flowering",
+        "duration": "20-25 Days",
+        "description": "Bell-shaped white to pale pink flowers bloom in leaf axils."
+      },
+      {
+        "stage": "Capsule Development",
+        "duration": "20-25 Days",
+        "description": "Four-grooved erect capsules pack 60-80 oil-rich seeds each."
+      },
+      {
+        "stage": "Maturity & Dehiscence",
+        "duration": "15-18 Days",
+        "description": "Lower leaves drop; capsules turn golden-yellow before bursting."
+      }
+    ],
+    "commonDiseases": [
+      "Sesame Phyllody",
+      "Root Rot / Stem Rot",
+      "Alternaria Leaf Spot"
+    ],
+    "funFact": "Sesame ('Nallennai' or good oil) is Tamil Nadu's traditional queen of cooking oils, and sesame sweets ('Ellu Urundai') are offered in ancient Tamil rituals!",
+    "harvestYield": "650 – 1,000 kg / hectare",
+    "basicPractices": [
+      "Mix small seeds with fine sand (1:4 ratio) for uniform field broadcasting.",
+      "Thin seedlings strictly at 15 DAS maintaining 30 x 30 cm spacing.",
+      "Harvest promptly when lower capsules turn yellow to prevent seed shattering."
+    ],
+    "diseaseKey": "sesame-phyllody",
+    "diseaseName": "Sesame Phyllody",
+    "scientificDisease": "Candidatus Phytoplasma",
+    "tamilDisease": "எள் இலைக்கண் நோய் / மலட்டு நோய்",
+    "confidence": 93,
+    "healthStatus": "Critical",
+    "severity": "High",
+    "symptoms": [
+      "Floral parts completely transform into green leafy structures (phyllody)",
+      "Severe shortening of internodes causing bushy 'witch's broom' top appearance",
+      "Capsules fail to form or produce sterile, hollow husks"
+    ],
+    "cause": "Phytoplasma organism transmitted by the leafhopper vector Orosius albicinctus.",
+    "prevention": [
+      "Foliar spray with Dimethoate 30% EC @ 1.5 ml/L to control leafhopper vectors",
+      "Rogue out and destroy infected phyllody plants as soon as noticed",
+      "Grow tolerant varieties like TMV 3 and VRI 1"
+    ]
+  },
+  {
+    "id": "coconut",
+    "name": "Coconut",
+    "tamilName": "தென்னை (Thennai)",
+    "scientificName": "Cocos nucifera",
+    "category": "Food and Field Crops",
+    "icon": "🥥",
+    "growthPeriod": "Perennial (60+ Years)",
+    "optimalTemperature": "27°C – 35°C",
+    "waterNeed": "High",
+    "soilType": "Deep sandy loams, coastal alluvium, and red loams with high drainage",
+    "sunlight": "Unobstructed tropical sunlight; thrives with warm coastal breeze and high humidity",
+    "majorTNRegions": [
+      "Coimbatore (Pollachi)",
+      "Tiruppur",
+      "Thanjavur",
+      "Kanyakumari",
+      "Dindigul",
+      "Theni"
+    ],
+    "stages": [
+      {
+        "stage": "Juvenile Palm",
+        "duration": "3-5 Years",
+        "description": "Fronds multiply; sturdy columnar trunk forms with robust root bole."
+      },
+      {
+        "stage": "First Flowering Spathe",
+        "duration": "Year 5-7",
+        "description": "Spathe emerges in leaf axils containing thousands of male and female button flowers."
+      },
+      {
+        "stage": "Button Setting to Tender Nut",
+        "duration": "7-8 Months",
+        "description": "Fertilised buttons swell into green nuts filled with sweet electrolyte water."
+      },
+      {
+        "stage": "Copra Maturation",
+        "duration": "11-12 Months",
+        "description": "Outer husk turns brown; endosperm solidifies into rich oily copra meat."
+      }
+    ],
+    "commonDiseases": [
+      "Tanjore Wilt / Basal Stem Rot",
+      "Bud Rot",
+      "Rhinoceros Beetle"
+    ],
+    "funFact": "Pollachi in Coimbatore district is celebrated across India as the 'Coconut Capital', famous for tender coconuts, coir fiber industries, and lush coconut plantations!",
+    "harvestYield": "80 – 140 nuts / palm / year",
+    "basicPractices": [
+      "Dig circular basin 1.8 m radius around palm base and apply 50 kg green manure annually.",
+      "Drip irrigate 80–100 litres of water per palm per day during dry summer months.",
+      "Apply 1.3 kg Urea, 2.0 kg Superphosphate, and 2.0 kg Muriate of Potash per adult palm annually."
+    ],
+    "diseaseKey": "coconut-tanjore-wilt",
+    "diseaseName": "Tanjore Wilt (Basal Stem Rot)",
+    "scientificDisease": "Ganoderma lucidum",
+    "tamilDisease": "தஞ்சாவூர் வாடல் நோய் / தென்னை வேரழுகல்",
+    "confidence": 93,
+    "healthStatus": "Critical",
+    "severity": "High",
+    "symptoms": [
+      "Withering and yellowing of outer lower fronds, which droop and hang down around the trunk",
+      "Reddish-brown viscous bleeding fluid oozing from cracks at the base of the stem up to 1.5 meters",
+      "Decay of basal bole tissues and emergence of bracket-like fungal conks"
+    ],
+    "cause": "Soil-borne bracket fungus Ganoderma lucidum attacking roots and vascular vessels.",
+    "prevention": [
+      "Root feeding with Hexaconazole 5% SC @ 2.0 ml in 100 ml water thrice a year",
+      "Apply 5 kg neem cake + Trichoderma viride @ 50 g/palm/year around trunk basin",
+      "Isolate diseased palms by digging isolation trenches (1 m deep, 30 cm wide)"
+    ]
+  },
+  {
+    "id": "tomato",
+    "name": "Tomato",
+    "tamilName": "தக்காளி (Thakkali)",
+    "scientificName": "Solanum lycopersicum",
+    "category": "Vegetables",
+    "icon": "🍅",
+    "growthPeriod": "70 – 100 Days",
+    "optimalTemperature": "20°C – 26°C",
+    "waterNeed": "Moderate",
+    "soilType": "Well-aerated sandy loam with pH 6.0 – 6.8",
+    "sunlight": "Minimum 7 hours of direct unobstructed sunshine",
+    "majorTNRegions": [
+      "Dharmapuri",
+      "Krishnagiri",
+      "Dindigul",
+      "Coimbatore",
+      "Salem"
+    ],
+    "stages": [
+      {
+        "stage": "Seedling Stage",
+        "duration": "20-25 Days",
+        "description": "Cotyledons expand followed by true leaves; ready for transplanting."
+      },
+      {
+        "stage": "Vegetative Canopy",
+        "duration": "20-30 Days",
+        "description": "Deep taproot system and lateral branches proliferate."
+      },
+      {
+        "stage": "Yellow Flowering",
+        "duration": "15-20 Days",
+        "description": "Self-pollinating yellow blossoms buzz-pollinated by bees or wind."
+      },
+      {
+        "stage": "Fruit Set to Red Ripe",
+        "duration": "25-35 Days",
+        "description": "Lycopene synthesis turns berries from green to deep radiant crimson."
+      }
+    ],
+    "commonDiseases": [
+      "Early Blight (Alternaria solani)",
+      "Late Blight",
+      "Tomato Leaf Curl Virus"
+    ],
+    "funFact": "Dharmapuri and Krishnagiri are known as the tomato hubs of Tamil Nadu, harvesting thousands of tonnes daily for Chennai and Bangalore markets!",
+    "harvestYield": "25 – 45 tonnes / hectare",
+    "basicPractices": [
+      "Stake indeterminate tomato vines with bamboo poles to avoid soil-borne spore contamination.",
+      "Mulch with silver-black polyethylene film to conserve moisture and suppress weeds.",
+      "Spray micro-nutrients (Boron and Calcium) at flowering to avoid blossom end rot."
+    ],
+    "diseaseKey": "tomato-early-blight",
+    "diseaseName": "Early Blight",
+    "scientificDisease": "Alternaria solani",
+    "tamilDisease": "முன் பருவ இலைக்கருகல் நோய்",
+    "confidence": 91,
+    "healthStatus": "Needs Attention",
+    "severity": "Medium",
+    "symptoms": [
+      "Concentric dark brown 'target board' rings with surrounding chlorotic yellow halos on older leaves",
+      "Lesions progressively spread upward through the canopy, causing premature leaf drop",
+      "Sunscald risk on developing fruits due to loss of protective foliar shade"
+    ],
+    "cause": "Airborne and splash-dispersed fungal pathogen Alternaria solani thriving in temperatures of 24-29°C with high humidity.",
+    "prevention": [
+      "Spray Mancozeb 75% WP @ 2.0 g/L or Chlorothalonil @ 2.0 g/L at 10-day intervals",
+      "Use drip irrigation rather than overhead sprinklers to keep foliage dry",
+      "Remove and destroy lower infected leaves 15 cm above ground level"
+    ]
+  },
+  {
+    "id": "potato",
+    "name": "Potato",
+    "tamilName": "உருளைக்கிழங்கு (Urulaikizhangu)",
+    "scientificName": "Solanum tuberosum",
+    "category": "Vegetables",
+    "icon": "🥔",
+    "growthPeriod": "90 – 120 Days",
+    "optimalTemperature": "15°C – 20°C",
+    "waterNeed": "Moderate",
+    "soilType": "Loose, friable sandy loam rich in humus; stones impede tuber expansion",
+    "sunlight": "Full daylight for foliage; tubers require darkness to avoid toxic solanine",
+    "majorTNRegions": [
+      "Nilgiris (Ooty)",
+      "Dindigul (Kodaikanal)",
+      "Erode (Hills)"
+    ],
+    "stages": [
+      {
+        "stage": "Sprout Development",
+        "duration": "15-20 Days",
+        "description": "Seed eyes sprout underground utilizing stored tuber nutrients."
+      },
+      {
+        "stage": "Vegetative Canopy",
+        "duration": "25-30 Days",
+        "description": "Leaves emerge, photosynthesizing nutrients for stolon formation."
+      },
+      {
+        "stage": "Tuber Initiation",
+        "duration": "15-20 Days",
+        "description": "Stolon tips swell into miniature immature tubers underground."
+      },
+      {
+        "stage": "Tuber Bulking & Maturation",
+        "duration": "35-45 Days",
+        "description": "Tubers accumulate starch; skin hardens after top vine senescence."
+      }
+    ],
+    "commonDiseases": [
+      "Late Blight (Phytophthora infestans)",
+      "Early Blight",
+      "Bacterial Wilt / Brown Rot"
+    ],
+    "funFact": "Ooty (Nilgiris) has been the historic center for hill potato cultivation in Tamil Nadu since British introduction in the 1820s!",
+    "harvestYield": "20 – 35 tonnes / hectare",
+    "basicPractices": [
+      "Perform earthing-up at 30 and 50 DAP to cover developing tubers from sunlight exposure.",
+      "Plant certified disease-free seed tubers with 2–3 sprouted eyes.",
+      "De-haulm (cut top vines) 10 days before harvesting to harden tuber skin."
+    ],
+    "diseaseKey": "potato-early-blight",
+    "diseaseName": "Early Blight",
+    "scientificDisease": "Alternaria solani",
+    "tamilDisease": "முன் பருவ இலைக்கருகல் நோய்",
+    "confidence": 94,
+    "healthStatus": "Needs Attention",
+    "severity": "Medium",
+    "symptoms": [
+      "Distinctive concentric target-board dark brown necrotic spots on potato leaves",
+      "Chlorotic yellow halos surrounding expanding necrotic lesions",
+      "Severe blight causes dry, papery brown leaves that remain attached to stems"
+    ],
+    "cause": "Fungal pathogen Alternaria solani attacking maturing potato foliage under alternating dry and wet weather.",
+    "prevention": [
+      "Spray Mancozeb 75% WP @ 2.0 g/L or Azoxystrobin 23% SC @ 1.0 ml/L at onset",
+      "Maintain balanced potash nutrition to boost epidermal thickness",
+      "Rotate hill fields with French beans or garlic"
+    ]
+  },
+  {
+    "id": "brinjal",
+    "name": "Brinjal (Kathirikai)",
+    "tamilName": "கத்திரிக்காய் (Kathirikai)",
+    "scientificName": "Solanum melongena",
+    "category": "Vegetables",
+    "icon": "🍆",
+    "growthPeriod": "120 – 150 Days",
+    "optimalTemperature": "22°C – 32°C",
+    "waterNeed": "Moderate",
+    "soilType": "Deep, rich loams and clay loams with neutral pH (6.5 – 7.5)",
+    "sunlight": "Warm, sunny days; highly sensitive to cold frost",
+    "majorTNRegions": [
+      "Vellore",
+      "Tiruvannamalai",
+      "Dindigul",
+      "Salem",
+      "Coimbatore",
+      "Theni"
+    ],
+    "stages": [
+      {
+        "stage": "Seedling Nursery",
+        "duration": "25-30 Days",
+        "description": "Sturdy 5-leaf transplants ready for field planting."
+      },
+      {
+        "stage": "Branching & Bush Formation",
+        "duration": "30-40 Days",
+        "description": "Forms a dense spreading bush 60 to 100 cm tall."
+      },
+      {
+        "stage": "Violet Flowering",
+        "duration": "20-25 Days",
+        "description": "Star-shaped violet flowers with yellow cone anthers bloom."
+      },
+      {
+        "stage": "Fruit Bulking & Harvests",
+        "duration": "45-60 Days",
+        "description": "Glossy purple or green fruits harvested every 3–4 days."
+      }
+    ],
+    "commonDiseases": [
+      "Little Leaf of Brinjal (Phytoplasma)",
+      "Phomopsis Blight",
+      "Bacterial Wilt"
+    ],
+    "funFact": "Vellore's 'Mullu Kathirikai' (spiny brinjal) holds a prestigious Geographical Indication (GI) tag, celebrated for its buttery melt-in-mouth texture!",
+    "harvestYield": "30 – 50 tonnes / hectare",
+    "basicPractices": [
+      "Space plants at 60 x 60 cm for bushy native cultivars.",
+      "Install yellow sticky traps @ 15/ha to monitor leafhopper vectors.",
+      "Apply neem cake @ 250 kg/ha to deter root-knot nematodes."
+    ],
+    "diseaseKey": "brinjal-little-leaf",
+    "diseaseName": "Little Leaf of Brinjal",
+    "scientificDisease": "Candidatus Phytoplasma",
+    "tamilDisease": "கத்திரி சிற்றிலை நோய்",
+    "confidence": 93,
+    "healthStatus": "Critical",
+    "severity": "High",
+    "symptoms": [
+      "Drastic reduction in leaf size; leaves become minute, soft, glabrous, and pale green",
+      "Severe shortening of internodes causing dense bushy appearance ('Witches Broom')",
+      "Floral parts turn green (phyllody) and become completely sterile without fruit set"
+    ],
+    "cause": "Phytoplasma organism transmitted by the leafhopper vector Hishimonus phycitis.",
+    "prevention": [
+      "Rogue out and destroy infected little-leaf plants as soon as observed",
+      "Spray Dimethoate 30% EC @ 1.5 ml/L or Thiamethoxam 25% WG @ 0.3 g/L to control leafhoppers",
+      "Dip roots of seedlings in Tetracycline hydrochloride solution (500 ppm) before transplanting"
+    ]
+  },
+  {
+    "id": "chilli",
+    "name": "Chilli (Milagai)",
+    "tamilName": "மிளகாய் (Milagai)",
+    "scientificName": "Capsicum annuum",
+    "category": "Vegetables",
+    "icon": "🌶️",
+    "growthPeriod": "120 – 180 Days",
+    "optimalTemperature": "20°C – 32°C",
+    "waterNeed": "Moderate",
+    "soilType": "Well-drained sandy loam and fertile black cotton soils",
+    "sunlight": "Warm, sunny, dry climate during fruit ripening to develop high capsaicin",
+    "majorTNRegions": [
+      "Ramanathapuram",
+      "Thoothukudi",
+      "Virudhunagar",
+      "Sivagangai",
+      "Tirunelveli"
+    ],
+    "stages": [
+      {
+        "stage": "Seedling Nursery",
+        "duration": "30-35 Days",
+        "description": "Nursery grown seedlings transplanted into ridges."
+      },
+      {
+        "stage": "Vegetative Bushing",
+        "duration": "30-40 Days",
+        "description": "Dichotomous branching with dark green glossy leaves."
+      },
+      {
+        "stage": "White Flowering",
+        "duration": "20-25 Days",
+        "description": "Small white star flowers develop at node forks."
+      },
+      {
+        "stage": "Green to Red Pod Ripening",
+        "duration": "40-60 Days",
+        "description": "Slender pods turn from dark emerald green to fiery red."
+      }
+    ],
+    "commonDiseases": [
+      "Anthracnose / Fruit Rot",
+      "Chilli Leaf Curl Virus",
+      "Powdery Mildew"
+    ],
+    "funFact": "Ramanathapuram's 'Mundu Chilli' (round cherry chilli) has a prestigious GI tag, treasured across Chettinad cuisine for its fiery pungency and rich red color!",
+    "harvestYield": "2.0 – 3.5 tonnes / hectare (dry chillies)",
+    "basicPractices": [
+      "Spray Azadirachtin 1% @ 2.0 ml/L to deter thrips that transmit leaf curl virus.",
+      "Avoid excessive irrigation during flowering to prevent blossom drop.",
+      "Dry harvested red chillies on clean tarpaulins under direct sun."
+    ],
+    "diseaseKey": "chilli-anthracnose",
+    "diseaseName": "Anthracnose / Fruit Rot (Die-Back)",
+    "scientificDisease": "Colletotrichum capsici",
+    "tamilDisease": "மிளகாய் கனி அழுகல் / நுனிகருகல் நோய்",
+    "confidence": 94,
+    "healthStatus": "Needs Attention",
+    "severity": "High",
+    "symptoms": [
+      "Circular to oblong sunken necrotic spots on ripe red chillies with black concentric rings",
+      "Tip of young branches withers and dries downward ('Die-Back')",
+      "Fruits shrivel, bleach straw-white, and shed prematurely before harvest"
+    ],
+    "cause": "Seed-borne and airborne fungus Colletotrichum capsici spreading under humid, cloudy weather.",
+    "prevention": [
+      "Seed treatment with Thiram or Captan @ 3.0 g/kg seed",
+      "Spray Azoxystrobin 23% SC @ 1.0 ml/L or Difenoconazole @ 0.5 ml/L during fruit set",
+      "Collect and destroy shrivelled infected chillies from the field"
+    ]
+  },
+  {
+    "id": "onion",
+    "name": "Onion (Vengayam)",
+    "tamilName": "வெங்காயம் (Vengayam)",
+    "scientificName": "Allium cepa",
+    "category": "Vegetables",
+    "icon": "🧅",
+    "growthPeriod": "70 – 90 Days",
+    "optimalTemperature": "15°C – 28°C",
+    "waterNeed": "Moderate",
+    "soilType": "Friable, fertile sandy loam and red loam with high organic matter and pH 6.0 – 7.0",
+    "sunlight": "Clear sunny weather; photoperiod triggers bulb expansion",
+    "majorTNRegions": [
+      "Perambalur (Small Onion Hub)",
+      "Tiruchirappalli",
+      "Dindigul",
+      "Coimbatore",
+      "Tiruppur"
+    ],
+    "stages": [
+      {
+        "stage": "Bulblet Sprouting",
+        "duration": "10-15 Days",
+        "description": "Small onion sets (shallots) sprout hollow tubular green leaves."
+      },
+      {
+        "stage": "Vegetative Foliage",
+        "duration": "25-30 Days",
+        "description": "Foliage multiplies, synthesizing sugars for bulb storage."
+      },
+      {
+        "stage": "Bulbing Phase",
+        "duration": "20-25 Days",
+        "description": "Leaf sheaths swell at soil line into distinct pungent clusters."
+      },
+      {
+        "stage": "Neck Fall & Maturation",
+        "duration": "15-20 Days",
+        "description": "Tops naturally bend and collapse ('neck fall'); skin turns ruby pink."
+      }
+    ],
+    "commonDiseases": [
+      "Purple Blotch (Alternaria porri)",
+      "Stemphylium Blight",
+      "Basal Rot"
+    ],
+    "funFact": "Perambalur and Dindigul cultivate over 70% of South India's famous 'Chinna Vengayam' (small shallots), the essential soul of Tamil Nadu cooking!",
+    "harvestYield": "12 – 18 tonnes / hectare",
+    "basicPractices": [
+      "Plant medium-sized healthy mother shallot bulbs spaced 15 x 10 cm.",
+      "Withhold irrigation 10 days before harvest to enhance storage shelf-life.",
+      "Cure harvested bulbs in shade for 7–10 days before market transport."
+    ],
+    "diseaseKey": "onion-purple-blotch",
+    "diseaseName": "Purple Blotch",
+    "scientificDisease": "Alternaria porri",
+    "tamilDisease": "வெங்காய செம்புள்ளி நோய்",
+    "confidence": 92,
+    "healthStatus": "Needs Attention",
+    "severity": "Medium",
+    "symptoms": [
+      "Small, sunken, whitish lesions on tubular leaves turning purple to dark brown with yellow halo",
+      "Lesions girdle the leaf, causing the entire hollow blade to collapse and snap",
+      "Bulbs rot in storage if infection spreads down the neck"
+    ],
+    "cause": "Airborne fungus Alternaria porri proliferating under warm humid weather (25°C) with persistent dews.",
+    "prevention": [
+      "Foliar spray with Mancozeb 75% WP @ 2.0 g/L or Tebuconazole @ 1.0 ml/L with sticker",
+      "Spray sticker (Triton / Sandovit @ 0.5 ml/L) to make spray adhere to waxy cylindrical onion leaves",
+      "Ensure field drainage to eliminate standing moisture"
+    ]
+  },
+  {
+    "id": "ladies-finger",
+    "name": "Ladies Finger (Vendakkai)",
+    "tamilName": "வெண்டைக்காய் (Vendakkai)",
+    "scientificName": "Abelmoschus esculentus",
+    "category": "Vegetables",
+    "icon": "🥬",
+    "growthPeriod": "90 – 110 Days",
+    "optimalTemperature": "24°C – 35°C",
+    "waterNeed": "Moderate",
+    "soilType": "Rich, loose sandy loam and clay loam with good drainage",
+    "sunlight": "Full hot sunshine; highly tolerant of tropical temperatures",
+    "majorTNRegions": [
+      "Coimbatore",
+      "Salem",
+      "Dharmapuri",
+      "Vellore",
+      "Dindigul",
+      "Theni"
+    ],
+    "stages": [
+      {
+        "stage": "Seed Germination",
+        "duration": "7-10 Days",
+        "description": "Hard-coated seeds germinate rapidly; broad lobed cotyledons open."
+      },
+      {
+        "stage": "Erect Stem Growth",
+        "duration": "25-30 Days",
+        "description": "Sturdy hairy central stem produces palmate lobed leaves."
+      },
+      {
+        "stage": "Yellow Hibiscus-Like Flower",
+        "duration": "15-20 Days",
+        "description": "Large cream-yellow flowers with purple centers open at sunrise."
+      },
+      {
+        "stage": "Pod Elongation & Harvests",
+        "duration": "35-50 Days",
+        "description": "Tender mucilaginous pentagonal pods harvested every 2 days."
+      }
+    ],
+    "commonDiseases": [
+      "Yellow Vein Mosaic Virus (YVMV)",
+      "Enation Leaf Curl",
+      "Powdery Mildew"
+    ],
+    "funFact": "Ladies Finger is beloved for its natural soluble mucilage fiber, traditionally cooked into tangy Tamil Nadu 'Vendakkai Puli Kuzhambu'!",
+    "harvestYield": "12 – 18 tonnes / hectare",
+    "basicPractices": [
+      "Soak seeds in water for 12 hours before sowing to soften seed coats.",
+      "Install yellow sticky traps @ 15/ha to manage whitefly vectors.",
+      "Harvest tender pods every alternate day before fibers harden."
+    ],
+    "diseaseKey": "ladies-finger-yvmv",
+    "diseaseName": "Yellow Vein Mosaic Virus (YVMV)",
+    "scientificDisease": "Bhendi Yellow Vein Mosaic Virus",
+    "tamilDisease": "வெண்டை மஞ்சள் நரம்பு தேமல் நோய்",
+    "confidence": 94,
+    "healthStatus": "Critical",
+    "severity": "High",
+    "symptoms": [
+      "Veins of leaves turn bright golden-yellow while interveinal areas remain green",
+      "Complete network of yellow veins expands, turning entire leaf yellow and brittle",
+      "Fruits become dwarfed, yellowish-white, hard, and unmarketable"
+    ],
+    "cause": "Begomovirus transmitted persistently by the whitefly vector (Bemisia tabaci).",
+    "prevention": [
+      "Grow resistant hybrid varieties like Arka Anamika, Parbhani Kranti, and CO 3",
+      "Spray Thiamethoxam 25% WG @ 0.3 g/L or Acetamiprid @ 0.2 g/L to suppress whiteflies",
+      "Rogue out early infected plants to halt field spread"
+    ]
+  },
+  {
+    "id": "drumstick",
+    "name": "Drumstick (Murungai)",
+    "tamilName": "முருங்கை (Murungai)",
+    "scientificName": "Moringa oleifera",
+    "category": "Vegetables",
+    "icon": "🌿",
+    "growthPeriod": "Perennial (10+ Years)",
+    "optimalTemperature": "25°C – 38°C",
+    "waterNeed": "Low",
+    "soilType": "Well-drained sandy loam, red soil, and alluvial soil; sensitive to waterlogging",
+    "sunlight": "Full scorching sunlight; exceptionally drought-hardy miracle tree",
+    "majorTNRegions": [
+      "Dindigul (Oddanchatram Hub)",
+      "Karur (Aravakurichi)",
+      "Theni",
+      "Tiruppur",
+      "Tuticorin"
+    ],
+    "stages": [
+      {
+        "stage": "Seedling / Limb Cutting",
+        "duration": "30-45 Days",
+        "description": "Rapid growth; develops soft woody stem and tripinnate compound leaves."
+      },
+      {
+        "stage": "Canopy Pinching",
+        "duration": "60-90 Days",
+        "description": "Terminal shoots pinched at 1 meter height to induce bushy lateral branching."
+      },
+      {
+        "stage": "Fragrant White Flowering",
+        "duration": "30-40 Days",
+        "description": "Clusters of sweet-scented white flowers bloom profusely."
+      },
+      {
+        "stage": "Drumstick Pod Elongation",
+        "duration": "45-60 Days",
+        "description": "Long pendulous green pods swell, packing protein and antioxidant seeds."
+      }
+    ],
+    "commonDiseases": [
+      "Fruit Rot (Colletotrichum dematium)",
+      "Pod Fly",
+      "Powdery Mildew"
+    ],
+    "funFact": "The Oddanchatram and Karur (Aravakurichi) belt of Tamil Nadu is India's leading exporter of drumsticks, prized worldwide for the famous 'PKM-1' and 'PKM-2' varieties!",
+    "harvestYield": "200 – 400 pods / tree / year",
+    "basicPractices": [
+      "Pinch terminal shoots at 75–90 cm height to encourage 8–10 lateral fruiting branches.",
+      "Spray neem seed kernel extract (NSKE 5%) to repel the drumstick pod fly.",
+      "Apply 15 kg well-rotted FYM and 100 g urea per tree twice a year."
+    ],
+    "diseaseKey": "drumstick-pod-rot",
+    "diseaseName": "Pod Rot & Twig Canker",
+    "scientificDisease": "Colletotrichum dematium",
+    "tamilDisease": "முருங்கை காய் அழுகல் நோய்",
+    "confidence": 92,
+    "healthStatus": "Needs Attention",
+    "severity": "Medium",
+    "symptoms": [
+      "Brown sunken spots on tender green drumstick pods that rapidly enlarge",
+      "Pods split open, gum oozes out, and pods rot from tip upward",
+      "Drying and withering of delicate white flower panicles"
+    ],
+    "cause": "Fungal pathogen Colletotrichum dematium spreading during damp monsoon conditions.",
+    "prevention": [
+      "Spray Copper Oxychloride 50% WP @ 2.5 g/L or Mancozeb @ 2.0 g/L at flowering",
+      "Prune overcrowded and dead branches after harvest to permit full sunlight penetration",
+      "Collect and destroy fallen rotten drumsticks from the orchard floor"
+    ]
+  },
+  {
+    "id": "bitter-gourd",
+    "name": "Bitter Gourd (Pavakkai)",
+    "tamilName": "பாகற்காய் (Pavakkai)",
+    "scientificName": "Momordica charantia",
+    "category": "Vegetables",
+    "icon": "🥒",
+    "growthPeriod": "100 – 120 Days",
+    "optimalTemperature": "24°C – 35°C",
+    "waterNeed": "Moderate",
+    "soilType": "Deep sandy loam rich in organic manure with excellent drainage",
+    "sunlight": "Warm, sunny weather; vines climb on pandal or bamboo trellises",
+    "majorTNRegions": [
+      "Coimbatore",
+      "Dindigul",
+      "Tiruppur",
+      "Salem",
+      "Theni",
+      "Kanyakumari"
+    ],
+    "stages": [
+      {
+        "stage": "Vine Sprouting & Tendrils",
+        "duration": "15-20 Days",
+        "description": "Tendrils coil around support wires, pulling five-lobed leaves upward."
+      },
+      {
+        "stage": "Pandal Trellis Canopy",
+        "duration": "30-40 Days",
+        "description": "Vigorous vine network carpets overhead wire trellis."
+      },
+      {
+        "stage": "Yellow Male & Female Flowers",
+        "duration": "20-25 Days",
+        "description": "Distinct unisexual yellow flowers bloom with miniature spiny ovary on females."
+      },
+      {
+        "stage": "Tuberculate Fruit Harvests",
+        "duration": "35-45 Days",
+        "description": "Deep green ridged, warty fruits harvested every 3 days."
+      }
+    ],
+    "commonDiseases": [
+      "Downy Mildew (Pseudoperonospora cubensis)",
+      "Powdery Mildew",
+      "Mosaic Virus"
+    ],
+    "funFact": "Bitter Gourd contains polypeptide-p and charantin, natural bioactive compounds widely researched for supporting healthy blood sugar levels in diabetes!",
+    "harvestYield": "15 – 25 tonnes / hectare",
+    "basicPractices": [
+      "Erect overhead wire pandal (2 m height) for clean, straight, blemish-free gourds.",
+      "Install cue-lure traps @ 10/ha to trap melon fruit flies.",
+      "Drip irrigate at root zone to prevent foliar humidity and downy mildew."
+    ],
+    "diseaseKey": "bitter-gourd-downy-mildew",
+    "diseaseName": "Downy Mildew",
+    "scientificDisease": "Pseudoperonospora cubensis",
+    "tamilDisease": "பாகல் அடிச்சாம்பல் நோய்",
+    "confidence": 93,
+    "healthStatus": "Needs Attention",
+    "severity": "High",
+    "symptoms": [
+      "Angular yellow chlorotic lesions bounded strictly by leaf veins on upper leaf surface",
+      "Purplish-grey downy fungal felt on the corresponding lower leaf surface in morning dew",
+      "Leaves turn brown, curl upward, scorch, and drop prematurely"
+    ],
+    "cause": "Airborne oomycete Pseudoperonospora cubensis thriving under cool humid mornings (18-22°C).",
+    "prevention": [
+      "Spray Cymoxanil 8% + Mancozeb 64% WP @ 2.0 g/L or Metalaxyl-Mancozeb @ 2.0 g/L",
+      "Maintain trellis ventilation by pruning lower unproductive foliage",
+      "Avoid late evening overhead watering"
+    ]
+  },
+  {
+    "id": "bottle-gourd",
+    "name": "Bottle Gourd (Suraikkai)",
+    "tamilName": "சுரைக்காய் (Suraikkai)",
+    "scientificName": "Lagenaria siceraria",
+    "category": "Vegetables",
+    "icon": "🫑",
+    "growthPeriod": "110 – 130 Days",
+    "optimalTemperature": "24°C – 32°C",
+    "waterNeed": "Moderate",
+    "soilType": "Rich loamy soils with high organic matter and good moisture retention",
+    "sunlight": "Full sunshine; night-blooming white flowers pollinated by nocturnal moths",
+    "majorTNRegions": [
+      "Dindigul",
+      "Salem",
+      "Coimbatore",
+      "Tiruvannamalai",
+      "Vellore"
+    ],
+    "stages": [
+      {
+        "stage": "Vine Sprouting",
+        "duration": "15-20 Days",
+        "description": "Large pubescent cordate leaves climb vigorously."
+      },
+      {
+        "stage": "Nocturnal White Flowering",
+        "duration": "30-40 Days",
+        "description": "Delicate white flowers open at dusk with sweet fragrance."
+      },
+      {
+        "stage": "Cylindrical / Round Fruit Set",
+        "duration": "25-35 Days",
+        "description": "Smooth pale green gourds grow rapidly to 30–60 cm length."
+      },
+      {
+        "stage": "Harvest or Shell Drying",
+        "duration": "30-40 Days",
+        "description": "Tender fruits harvested for cooking; mature ones dry into hard wooden vessels."
+      }
+    ],
+    "commonDiseases": [
+      "Anthracnose",
+      "Powdery Mildew",
+      "Cucumber Mosaic Virus"
+    ],
+    "funFact": "In ancient Tamil culture, hollow dried bottle gourd shells were cured to create musical instruments like the Tanpura and rustic water canteens!",
+    "harvestYield": "25 – 40 tonnes / hectare",
+    "basicPractices": [
+      "Sow 3–4 seeds per pit in pits filled with 10 kg FYM + 100 g neem cake.",
+      "Train vines on pandal system to prevent ground rot and insect attacks.",
+      "Harvest when fruits are tender with soft skin that punctures easily with a fingernail."
+    ],
+    "diseaseKey": "bottle-gourd-anthracnose",
+    "diseaseName": "Anthracnose",
+    "scientificDisease": "Colletotrichum lagenarium",
+    "tamilDisease": "சுரை அந்திரக்னோஸ் / கனி அழுகல்",
+    "confidence": 91,
+    "healthStatus": "Needs Attention",
+    "severity": "Medium",
+    "symptoms": [
+      "Circular, water-soaked, yellowish spots on leaves expanding into large brown lesions",
+      "Circular sunken water-soaked pits on the fruit surface that ooze pinkish spore masses",
+      "Shot-hole appearance on leaves as necrotic centers fall out"
+    ],
+    "cause": "Fungal pathogen Colletotrichum lagenarium spreading via rain splash during warm humid periods.",
+    "prevention": [
+      "Foliar spray with Carbendazim 50% WP @ 1.0 g/L or Mancozeb @ 2.0 g/L at 14-day intervals",
+      "Treat seeds with Carbendazim @ 2.0 g/kg seed before sowing",
+      "Avoid mechanical bruising of fruits during harvest"
+    ]
+  },
+  {
+    "id": "ridge-gourd",
+    "name": "Ridge Gourd (Peerkangai)",
+    "tamilName": "பீர்க்கங்காய் (Peerkangai)",
+    "scientificName": "Luffa acutangula",
+    "category": "Vegetables",
+    "icon": "🥒",
+    "growthPeriod": "90 – 110 Days",
+    "optimalTemperature": "25°C – 35°C",
+    "waterNeed": "Moderate",
+    "soilType": "Fertile, loose, well-aerated sandy loam rich in organic compost",
+    "sunlight": "Warm, sunny tropical days; climbs easily on trellises and fences",
+    "majorTNRegions": [
+      "Coimbatore",
+      "Dindigul",
+      "Salem",
+      "Madurai",
+      "Tirunelveli"
+    ],
+    "stages": [
+      {
+        "stage": "Seedling & Vine Crawl",
+        "duration": "15-20 Days",
+        "description": "Angular stems with strong tendrils climb trellises rapidly."
+      },
+      {
+        "stage": "Canopy & Yellow Flowers",
+        "duration": "25-30 Days",
+        "description": "Yellow afternoon-blooming flowers attract honeybees."
+      },
+      {
+        "stage": "Ribbed Fruit Elongation",
+        "duration": "20-25 Days",
+        "description": "Club-shaped green fruits develop 10 prominent longitudinal sharp ridges."
+      },
+      {
+        "stage": "Tender Vegetable Harvest",
+        "duration": "30-40 Days",
+        "description": "Tender fibrous gourds harvested; mature ones produce natural luffa bath sponges!"
+      }
+    ],
+    "commonDiseases": [
+      "Downy Mildew",
+      "Powdery Mildew",
+      "Gummy Stem Blight"
+    ],
+    "funFact": "When fully mature and dried, the interior fibrous vascular skeleton of ridge gourd becomes the world-famous natural 'Luffa' exfoliating bath sponge!",
+    "harvestYield": "15 – 22 tonnes / hectare",
+    "basicPractices": [
+      "Train vines on vertical string trellises or overhead pandal.",
+      "Apply micronutrient spray of Borax @ 1.0 g/L at flowering to prevent fruit curvature.",
+      "Harvest tender green fruits before interior vascular fibers harden."
+    ],
+    "diseaseKey": "ridge-gourd-powdery-mildew",
+    "diseaseName": "Powdery Mildew",
+    "scientificDisease": "Erysiphe cichoracearum",
+    "tamilDisease": "பீர்க்கன் சாம்பல் நோய்",
+    "confidence": 92,
+    "healthStatus": "Needs Attention",
+    "severity": "Medium",
+    "symptoms": [
+      "White talcum-powder like circular spots on both surfaces of leaves and stems",
+      "Powdery coating expands across entire leaf blade, impeding photosynthesis",
+      "Infected leaves turn brown, shrivel, curl downward, and drop prematurely"
+    ],
+    "cause": "Airborne fungus Erysiphe cichoracearum thriving in dry climates with high ambient humidity.",
+    "prevention": [
+      "Spray Wettable Sulphur 80% WP @ 2.5 g/L or Dinocap @ 1.0 ml/L at initial symptom onset",
+      "Spray bio-fungicide Ampelomyces quisqualis @ 5.0 g/L",
+      "Maintain trellis spacing to permit direct sunlight penetration through canopy"
+    ]
+  },
+  {
+    "id": "pumpkin",
+    "name": "Pumpkin (Poosanikai)",
+    "tamilName": "பூசணிக்காய் (Poosanikai)",
+    "scientificName": "Cucurbita moschata",
+    "category": "Vegetables",
+    "icon": "🎃",
+    "growthPeriod": "110 – 130 Days",
+    "optimalTemperature": "20°C – 32°C",
+    "waterNeed": "Moderate",
+    "soilType": "Deep sandy loam and fertile clay loam rich in organic matter",
+    "sunlight": "Full direct sunshine; sprawling ground vine with massive leaves",
+    "majorTNRegions": [
+      "Dindigul",
+      "Salem",
+      "Coimbatore",
+      "Tiruvannamalai",
+      "Dharmapuri",
+      "Theni"
+    ],
+    "stages": [
+      {
+        "stage": "Sprouting & Runner Vines",
+        "duration": "20-25 Days",
+        "description": "Extensive ground runners spread 5–10 meters with huge cordate leaves."
+      },
+      {
+        "stage": "Golden Bell Flowers",
+        "duration": "25-30 Days",
+        "description": "Large golden-yellow edible flowers bloom at dawn, pollinated by bumblebees."
+      },
+      {
+        "stage": "Globular Fruit Bulking",
+        "duration": "35-45 Days",
+        "description": "Hefty ribbed fruits swell; flesh accumulates beta-carotene."
+      },
+      {
+        "stage": "Skin Curing & Harvest",
+        "duration": "25-30 Days",
+        "description": "Rind hardens into thick orange-tan shell; stores for 6 months."
+      }
+    ],
+    "commonDiseases": [
+      "Powdery Mildew",
+      "Downy Mildew",
+      "Cucumber Mosaic Virus (CMV)"
+    ],
+    "funFact": "Pumpkin can store safely for over six months without refrigeration due to its thick waxy rind, serving as Tamil Nadu's traditional famine-reserve vegetable!",
+    "harvestYield": "25 – 45 tonnes / hectare",
+    "basicPractices": [
+      "Dig pits 60 x 60 x 60 cm filled with 20 kg FYM and 100 g urea.",
+      "Mulch ground around vines with dry straw to prevent fruit rot in rainy weather.",
+      "Hand pollinate female flowers in early morning if bee activity is low."
+    ],
+    "diseaseKey": "pumpkin-mosaic",
+    "diseaseName": "Mosaic Virus",
+    "scientificDisease": "Cucumber Mosaic Virus (CMV)",
+    "tamilDisease": "பூசணி தேமல் நோய்",
+    "confidence": 93,
+    "healthStatus": "Critical",
+    "severity": "High",
+    "symptoms": [
+      "Severe yellow-green mottled mosaic patterns and blister-like leaf puckering",
+      "Distortion of leaf margins, filiform 'shoestring' leaves, and stunted vine growth",
+      "Fruits develop warty green bumps, mottled coloration, and bitter taste"
+    ],
+    "cause": "Potyvirus transmitted by aphid species (Aphis gossypii and Myzus persicae).",
+    "prevention": [
+      "Spray Imidacloprid 17.8% SL @ 0.5 ml/L or Dimethoate @ 1.5 ml/L to manage aphid vectors",
+      "Rogue out and destroy infected vines to halt spreading",
+      "Grow border barrier crops of maize or sorghum around the pumpkin field"
+    ]
+  },
+  {
+    "id": "cucumber",
+    "name": "Cucumber (Vellarikkai)",
+    "tamilName": "வெள்ளரிக்காய் (Vellarikkai)",
+    "scientificName": "Cucumis sativus",
+    "category": "Vegetables",
+    "icon": "🥒",
+    "growthPeriod": "60 – 75 Days",
+    "optimalTemperature": "22°C – 32°C",
+    "waterNeed": "Moderate",
+    "soilType": "Loose, friable sandy loam with abundant compost and pH 6.0 – 7.0",
+    "sunlight": "Warm, sunny tropical weather; 96% water content vegetable",
+    "majorTNRegions": [
+      "Dindigul",
+      "Salem",
+      "Tiruppur",
+      "Coimbatore",
+      "Vellore",
+      "Karur"
+    ],
+    "stages": [
+      {
+        "stage": "Seed Sprouting",
+        "duration": "5-8 Days",
+        "description": "Rapid germination; two broad cotyledons emerge followed by true leaves."
+      },
+      {
+        "stage": "Vine Branching",
+        "duration": "20-25 Days",
+        "description": "Prostrate or climbing vines develop spiraling tendrils."
+      },
+      {
+        "stage": "Yellow Flowering",
+        "duration": "15-20 Days",
+        "description": "Bright yellow male flowers bloom first, followed by female flowers with miniature ovary."
+      },
+      {
+        "stage": "Crisp Fruit Harvests",
+        "duration": "20-25 Days",
+        "description": "Crisp cylindrical green fruits picked every morning."
+      }
+    ],
+    "commonDiseases": [
+      "Downy Mildew",
+      "Anthracnose",
+      "Fruit Fly"
+    ],
+    "funFact": "Cucumbers are composed of 96% pure water and electrolytes, traditionally sliced and sprinkled with salt and chilli powder by Tamil Nadu street vendors as natural cooling snacks!",
+    "harvestYield": "15 – 25 tonnes / hectare",
+    "basicPractices": [
+      "Maintain consistent soil moisture; water stress makes cucumbers develop bitter cucurbitacin.",
+      "Install pheromone cue-lure traps @ 10/ha to prevent fruit fly maggots.",
+      "Harvest fruits when crisp and bright green before seeds harden and yellow."
+    ],
+    "diseaseKey": "cucumber-downy-mildew",
+    "diseaseName": "Downy Mildew",
+    "scientificDisease": "Pseudoperonospora cubensis",
+    "tamilDisease": "வெள்ளரி அடிச்சாம்பல் நோய்",
+    "confidence": 94,
+    "healthStatus": "Needs Attention",
+    "severity": "High",
+    "symptoms": [
+      "Bright angular yellow chlorotic patches strictly bounded by veins on upper leaf surface",
+      "Purplish-brown velvety fungal down on lower surface under morning dew",
+      "Leaves curl, crisp like scorched paper, and drop, exposing fruits to sunburn"
+    ],
+    "cause": "Airborne oomycete pathogen thriving during warm days (24°C) with cool humid nights.",
+    "prevention": [
+      "Foliar spray with Metalaxyl + Mancozeb @ 2.0 g/L or Fosetyl-Al @ 2.0 g/L",
+      "Avoid late evening irrigation; water at soil base via drip lines",
+      "Maintain trellis air circulation by thinning overcrowded lateral vines"
+    ]
+  },
+  {
+    "id": "tapioca",
+    "name": "Tapioca (Maravalli)",
+    "tamilName": "மரவள்ளிக்கிழங்கு (Maravalli)",
+    "scientificName": "Manihot esculenta",
+    "category": "Vegetables",
+    "icon": "🥔",
+    "growthPeriod": "8 – 10 Months",
+    "optimalTemperature": "25°C – 35°C",
+    "waterNeed": "Low",
+    "soilType": "Deep, well-drained red sandy loam and alluvial soils with loose subsoil",
+    "sunlight": "Full intense sunlight; remarkably drought-hardy root crop",
+    "majorTNRegions": [
+      "Salem (Sago Capital)",
+      "Namakkal",
+      "Dharmapuri",
+      "Villupuram",
+      "Perambalur"
+    ],
+    "stages": [
+      {
+        "stage": "Sett Sprouting & Roots",
+        "duration": "15-25 Days",
+        "description": "Stem cuttings (setts) sprout buds and adventitious root system."
+      },
+      {
+        "stage": "Vegetative Canopy",
+        "duration": "60-90 Days",
+        "description": "Palmate leaves create dense canopy capturing solar energy."
+      },
+      {
+        "stage": "Tuber Bulking Phase",
+        "duration": "90-210 Days",
+        "description": "Fibrous storage roots swell into thick cylindrical starchy tubers."
+      },
+      {
+        "stage": "Maturity & Harvest",
+        "duration": "240-300 Days",
+        "description": "Lower leaves senesce; tubers reach maximum starch content."
+      }
+    ],
+    "commonDiseases": [
+      "Cassava Mosaic Disease (CMD)",
+      "Brown Leaf Spot",
+      "Tuber Rot"
+    ],
+    "funFact": "Salem in Tamil Nadu is universally acclaimed as the 'Sago City of India', processing millions of tons of tapioca starch into sago (javvarisi) and industrial starch products!",
+    "harvestYield": "30 – 50 tonnes / hectare",
+    "basicPractices": [
+      "Plant 15 cm long stem setts vertically or slightly slanting on ridges.",
+      "Use certified mosaic-free stem cuttings from verified healthy mother plants.",
+      "Apply potash @ 150 kg/ha in split doses to accelerate tuber starch accumulation."
+    ],
+    "diseaseKey": "tapioca-mosaic",
+    "diseaseName": "Cassava Mosaic Disease (CMD)",
+    "scientificDisease": "Indian Cassava Mosaic Virus (ICMV)",
+    "tamilDisease": "மரவள்ளி தேமல் நோய்",
+    "confidence": 94,
+    "healthStatus": "Critical",
+    "severity": "High",
+    "symptoms": [
+      "Severe yellow-green mosaic mottling on palmate leaf lobes with distorted crinkled margins",
+      "Leaf lobes become stunted, twisted, and asymmetrical, resembling deformed claws",
+      "Drastic reduction in plant vigor, tuber count, and starch content"
+    ],
+    "cause": "Geminivirus transmitted persistently by the whitefly vector (Bemisia tabaci) and through infected stem cuttings.",
+    "prevention": [
+      "Select stem setts exclusively from CMD-free certified mother blocks",
+      "Spray Thiamethoxam 25% WG @ 0.3 g/L or Dimethoate @ 1.5 ml/L to control whiteflies",
+      "Rogue out and destroy infected sprouts within the first 60 days",
+      "Cultivate CMD-resistant varieties released by TNAU and CTCRI (YTP 1, Co 4)"
+    ]
+  },
+  {
+    "id": "sweet-potato",
+    "name": "Sweet Potato",
+    "tamilName": "சர்க்கரைவள்ளிக்கிழங்கு (Sakkaravalli)",
+    "scientificName": "Ipomoea batatas",
+    "category": "Vegetables",
+    "icon": "🍠",
+    "growthPeriod": "100 – 120 Days",
+    "optimalTemperature": "22°C – 32°C",
+    "waterNeed": "Low",
+    "soilType": "Loose, friable sandy loam and light red soils; heavy clays induce misshapen tubers",
+    "sunlight": "Bright, direct tropical sunshine; sprawling ground vine",
+    "majorTNRegions": [
+      "Villupuram",
+      "Cuddalore",
+      "Salem",
+      "Tiruvannamalai",
+      "Dharmapuri",
+      "Kanyakumari"
+    ],
+    "stages": [
+      {
+        "stage": "Vine Cutting Planting",
+        "duration": "10-15 Days",
+        "description": "Terminal vine cuttings (20-25 cm) root vigorously at nodes."
+      },
+      {
+        "stage": "Ground Cover Canopy",
+        "duration": "30-40 Days",
+        "description": "Lush creeping heart-shaped foliage carpets ground, suppressing weeds."
+      },
+      {
+        "stage": "Tuber Root Swelling",
+        "duration": "35-45 Days",
+        "description": "Adventitious storage roots swell underground with beta-carotene."
+      },
+      {
+        "stage": "Maturity & Lifting",
+        "duration": "25-30 Days",
+        "description": "Leaves yellow slightly; tubers lifted with hand forks without skin cuts."
+      }
+    ],
+    "commonDiseases": [
+      "Sweet Potato Weevil",
+      "Feathery Mottle Virus",
+      "Black Rot"
+    ],
+    "funFact": "Sweet potato tubers are packed with natural vitamin A (beta-carotene), traditionally boiled and seasoned with coconut and jaggery during Tamil winter festivals!",
+    "harvestYield": "18 – 25 tonnes / hectare",
+    "basicPractices": [
+      "Plant terminal vine cuttings on ridges spaced 60 x 20 cm.",
+      "Earth-up at 30 and 50 DAP to cover developing tubers from sweet potato weevils.",
+      "Rotate fields with paddy or pulses to interrupt pest life cycles."
+    ],
+    "diseaseKey": "sweet-potato-feathery-mottle",
+    "diseaseName": "Feathery Mottle Disease",
+    "scientificDisease": "Sweet Potato Feathery Mottle Virus (SPFMV)",
+    "tamilDisease": "சர்க்கரைவள்ளி தேமல் நோய்",
+    "confidence": 92,
+    "healthStatus": "Needs Attention",
+    "severity": "Medium",
+    "symptoms": [
+      "Faint purple rings and chlorotic feather-like striping along principal leaf veins",
+      "General stunting and chlorotic yellowing of the trailing vine canopy",
+      "Cracked, grooved, or corky internal flesh inside storage roots"
+    ],
+    "cause": "Potyvirus transmitted non-persistently by aphid vectors (Aphis gossypii).",
+    "prevention": [
+      "Use certified virus-tested tissue-culture vine cuttings",
+      "Spray systemic insecticide (Imidacloprid @ 0.5 ml/L) to suppress aphid populations",
+      "Dip vine cuttings in Carbendazim 0.1% before planting"
+    ]
+  },
+  {
+    "id": "cluster-beans",
+    "name": "Cluster Beans (Kothavarangai)",
+    "tamilName": "கொத்தவரங்காய் (Kothavarangai)",
+    "scientificName": "Cyamopsis tetragonoloba",
+    "category": "Vegetables",
+    "icon": "🫛",
+    "growthPeriod": "80 – 100 Days",
+    "optimalTemperature": "25°C – 38°C",
+    "waterNeed": "Low",
+    "soilType": "Well-drained sandy loam and alluvial soils with pH 7.0 – 8.5",
+    "sunlight": "High solar exposure; exceptionally drought-hardy and heat-tolerant legume",
+    "majorTNRegions": [
+      "Dindigul",
+      "Salem",
+      "Coimbatore",
+      "Thoothukudi",
+      "Madurai",
+      "Tirunelveli"
+    ],
+    "stages": [
+      {
+        "stage": "Emergence & Nodulation",
+        "duration": "10-15 Days",
+        "description": "Rapid germination; deep taproot establishes nitrogen-fixing nodules."
+      },
+      {
+        "stage": "Erect Bush Growth",
+        "duration": "25-30 Days",
+        "description": "Forms a stiff erect bushy plant 60–100 cm tall with trifoliate leaves."
+      },
+      {
+        "stage": "Cluster Flowering",
+        "duration": "15-20 Days",
+        "description": "Dense clusters of pink to bluish flowers bloom in leaf axils."
+      },
+      {
+        "stage": "Pod Bundling & Harvests",
+        "duration": "30-40 Days",
+        "description": "Flattish, fleshy green pods harvested in abundant clusters every 3 days."
+      }
+    ],
+    "commonDiseases": [
+      "Bacterial Blight",
+      "Alternaria Leaf Spot",
+      "Powdery Mildew"
+    ],
+    "funFact": "Cluster bean seeds are the global source of natural 'Guar Gum', used worldwide as an emulsifier in ice creams, food sauces, and eco-friendly textiles!",
+    "harvestYield": "8 – 12 tonnes / hectare",
+    "basicPractices": [
+      "Sow in rows spaced 45 x 15 cm with 10 kg seed/ha.",
+      "Treat seed with Rhizobium culture to enhance root nodulation.",
+      "Harvest tender, crisp pods before the seeds enlarge and fibers develop."
+    ],
+    "diseaseKey": "cluster-beans-bacterial-blight",
+    "diseaseName": "Bacterial Blight",
+    "scientificDisease": "Xanthomonas axonopodis pv. cyamopsidis",
+    "tamilDisease": "கொத்தவரை பாக்டீரியா இலைக்கருகல் நோய்",
+    "confidence": 93,
+    "healthStatus": "Needs Attention",
+    "severity": "High",
+    "symptoms": [
+      "Small water-soaked translucent circular spots on leaves that turn dark brown",
+      "Lesions expand along leaf margins causing V-shaped chlorotic blighting",
+      "Black streaks on stems causing stem splitting and defoliation"
+    ],
+    "cause": "Seed-borne bacterium Xanthomonas axonopodis pv. cyamopsidis spreading via rain splash during warm humid periods.",
+    "prevention": [
+      "Hot water seed treatment at 56°C for 10 minutes before sowing",
+      "Spray Copper Oxychloride 50% WP @ 2.5 g/L + Streptocycline @ 0.1 g/L at first symptom",
+      "Destroy infected crop residues after final harvest"
+    ]
+  },
+  {
+    "id": "mango",
+    "name": "Mango Tree (Maamaram)",
+    "tamilName": "மாமரம் (Maamaram)",
+    "scientificName": "Mangifera indica",
+    "category": "Fruits and Fruit Trees",
+    "icon": "🥭",
+    "growthPeriod": "Perennial (50+ Years)",
+    "optimalTemperature": "24°C – 35°C",
+    "waterNeed": "Low",
+    "soilType": "Deep, fertile, well-drained alluvial and red sandy loam with deep water table",
+    "sunlight": "Full hot tropical sunshine; rainless dry weather required during flowering",
+    "majorTNRegions": [
+      "Krishnagiri (Mango Hub)",
+      "Dharmapuri",
+      "Salem",
+      "Dindigul",
+      "Theni",
+      "Vellore"
+    ],
+    "stages": [
+      {
+        "stage": "Graft Establishment",
+        "duration": "Year 1-3",
+        "description": "Epicotyl or approach grafts form sturdy branching canopy."
+      },
+      {
+        "stage": "Panicle Blossom Flush",
+        "duration": "Dec – Feb",
+        "description": "Huge pyramidal inflorescences produce thousands of pinkish flowers."
+      },
+      {
+        "stage": "Fruitlet to Pea Stage",
+        "duration": "Feb – Mar",
+        "description": "Natural drop of unfertilised fruitlets; marble-sized mangoes set."
+      },
+      {
+        "stage": "Maturation & Ripening",
+        "duration": "Apr – Jun",
+        "description": "Shoulders round out; aroma develops; varieties turn golden yellow."
+      }
+    ],
+    "commonDiseases": [
+      "Anthracnose",
+      "Powdery Mildew",
+      "Mango Hopper"
+    ],
+    "funFact": "Krishnagiri and Dharmapuri are heralded as Tamil Nadu's 'Mango Capital', cultivating legendary varieties like Alphonso, Banganapalli, Salem Gundu, and Malgova!",
+    "harvestYield": "10 – 16 tonnes / hectare",
+    "basicPractices": [
+      "Prune cross-branches and dead wood after harvest to permit sunlight into the center.",
+      "Spray Mancozeb @ 2 g/L or Azoxystrobin @ 1 ml/L before flowering panicles open.",
+      "Wrap developing fruits in newspaper bags to protect against fruit flies."
+    ],
+    "diseaseKey": "mango-anthracnose",
+    "diseaseName": "Mango Anthracnose",
+    "scientificDisease": "Colletotrichum gloeosporioides",
+    "tamilDisease": "மாமர அந்திரக்னோஸ் / இலைப்புள்ளி நோய்",
+    "confidence": 94,
+    "healthStatus": "Needs Attention",
+    "severity": "High",
+    "symptoms": [
+      "Small dark brown circular necrotic spots on leaves that coalesce into irregular patches",
+      "Blackening and drop of entire blossom panicles ('Blossom Blight')",
+      "Tear-stain black streaks on ripening mango fruits that rot in storage"
+    ],
+    "cause": "Fungal pathogen Colletotrichum gloeosporioides favored by intermittent rains during flowering and fruit set.",
+    "prevention": [
+      "Foliar spray with Copper Oxychloride @ 2.5 g/L or Carbendazim @ 1.0 g/L at panicle emergence",
+      "Hot water dip treatment of harvested mangoes at 52°C for 5 minutes before packing",
+      "Prune diseased twigs and spray Bordeaux mixture (1%) post-harvest"
+    ]
+  },
+  {
+    "id": "banana",
+    "name": "Banana Plant (Vaazhai)",
+    "tamilName": "வாழை (Vaazhai)",
+    "scientificName": "Musa acuminata",
+    "category": "Fruits and Fruit Trees",
+    "icon": "🍌",
+    "growthPeriod": "10 – 12 Months",
+    "optimalTemperature": "24°C – 32°C",
+    "waterNeed": "High",
+    "soilType": "Deep, rich, well-drained loams and alluvial soils with high organic matter and pH 6.5 – 7.5",
+    "sunlight": "Bright, warm tropical sunshine; sheltered from cyclonic high winds",
+    "majorTNRegions": [
+      "Tiruchirappalli (NRCB Hub)",
+      "Theni",
+      "Thanjavur",
+      "Coimbatore",
+      "Erode",
+      "Kanyakumari"
+    ],
+    "stages": [
+      {
+        "stage": "Sucker / Tissue Culture Plantlet",
+        "duration": "30-45 Days",
+        "description": "Sword suckers or tissue culture plantlets sprout spiraling leaves."
+      },
+      {
+        "stage": "Pseudostem Vegetative Growth",
+        "duration": "5-7 Months",
+        "description": "Concentric leaf sheaths form a sturdy false trunk 2–4 meters tall."
+      },
+      {
+        "stage": "Inflorescence (Shooting)",
+        "duration": "Month 8-9",
+        "description": "Large purple floral bud (heart) emerges with spiraling female flower hands."
+      },
+      {
+        "stage": "Bunch Maturation",
+        "duration": "Month 10-12",
+        "description": "Hands of bananas swell; angles round out; ready for harvest."
+      }
+    ],
+    "commonDiseases": [
+      "Sigatoka Leaf Spot",
+      "Panama Wilt",
+      "Banana Bunchy Top Virus"
+    ],
+    "funFact": "Trichy is home to India's National Research Centre for Banana (NRCB), producing legendary Tamil Nadu cultivars like Grand Naine, Nendran, Poovan, Rasthali, and Red Banana!",
+    "harvestYield": "40 – 65 tonnes / hectare",
+    "basicPractices": [
+      "Plant sword suckers treated with Carbendazim 0.1% or certified tissue-culture plantlets.",
+      "De-sucker regularly, allowing only one follower ratoon sucker per plant.",
+      "Provide propping support with bamboo poles as heavy bunches develop."
+    ],
+    "diseaseKey": "banana-sigatoka",
+    "diseaseName": "Sigatoka Leaf Spot",
+    "scientificDisease": "Mycosphaerella musicola",
+    "tamilDisease": "வாழை சிகடோகா இலைப்புள்ளி நோய்",
+    "confidence": 93,
+    "healthStatus": "Needs Attention",
+    "severity": "High",
+    "symptoms": [
+      "Narrow, yellowish-green streaks parallel to leaf veins that expand into brown elliptical spots",
+      "Centers of lesions become sunken, dry, and ashy grey with dark brown borders",
+      "Extensive leaf blighting leaves the plant without enough green foliage to mature bunches"
+    ],
+    "cause": "Airborne ascospores of Mycosphaerella musicola proliferating under warm humid weather with rain showers.",
+    "prevention": [
+      "Foliar spray with Propiconazole 25% EC @ 1.0 ml/L or Chlorothalonil @ 2.0 g/L with mineral oil (1%)",
+      "Cut and burn severely blighted lower leaves ('De-trashing')",
+      "Maintain wide spacing and proper trench drainage to lower canopy humidity"
+    ]
+  },
+  {
+    "id": "lemon",
+    "name": "Lemon Tree (Elumichai)",
+    "tamilName": "எலுமிச்சை (Elumichai)",
+    "scientificName": "Citrus limon",
+    "category": "Fruits and Fruit Trees",
+    "icon": "🍋",
+    "growthPeriod": "Perennial (25+ Years)",
+    "optimalTemperature": "22°C – 35°C",
+    "waterNeed": "Moderate",
+    "soilType": "Deep, fertile, well-drained sandy loam with pH 6.5 – 7.5; intolerant of hard pans",
+    "sunlight": "Full bright sunshine; dry climate during ripening enhances citric acid",
+    "majorTNRegions": [
+      "Dindigul",
+      "Theni",
+      "Tirunelveli (Puliangudi Hub)",
+      "Tenkasi",
+      "Tuticorin"
+    ],
+    "stages": [
+      {
+        "stage": "Budded Sapling Growth",
+        "duration": "Year 1-2",
+        "description": "Thorny branches develop with dark green ovate leaves and winged petioles."
+      },
+      {
+        "stage": "Sweet White Flowering",
+        "duration": "Year 3+",
+        "description": "Fragrant white blossoms with purple-tinted petals bloom in flushes."
+      },
+      {
+        "stage": "Green Fruitlet Expansion",
+        "duration": "3-4 Months",
+        "description": "Spherical green fruits expand, packing tart, vitamin C-rich juice."
+      },
+      {
+        "stage": "Lemon Yellow Ripening",
+        "duration": "5-6 Months",
+        "description": "Skin turns radiant yellow; essential citrus oil glands aromatic."
+      }
+    ],
+    "commonDiseases": [
+      "Citrus Canker",
+      "Citrus Tristeza Virus",
+      "Gummosis"
+    ],
+    "funFact": "Puliangudi in Tenkasi district is acclaimed as the 'Lemon City of Tamil Nadu', harvesting thousands of tonnes of juicy lemons sent across India daily!",
+    "harvestYield": "1,000 – 1,500 fruits / tree / year",
+    "basicPractices": [
+      "Prune water suckers and dead thorny twigs annually after harvest.",
+      "Apply micronutrients (Zinc, Iron, Manganese) foliar spray twice a year.",
+      "Paint tree trunk bases with Bordeaux paste to prevent fungal gummosis."
+    ],
+    "diseaseKey": "lemon-citrus-canker",
+    "diseaseName": "Citrus Canker",
+    "scientificDisease": "Xanthomonas citri subsp. citri",
+    "tamilDisease": "எலுமிச்சை திட்டு நோய் / கேங்கர் நோய்",
+    "confidence": 94,
+    "healthStatus": "Needs Attention",
+    "severity": "High",
+    "symptoms": [
+      "Raised, blister-like corky necrotic brown eruptions on leaves, twigs, and fruits",
+      "Prominent oily water-soaked yellow halos surrounding corky lesions on leaves",
+      "Premature leaf drop and unmarketable blemished scabby fruit skin"
+    ],
+    "cause": "Bacterium Xanthomonas citri entering through stomata or leaf-miner insect wound punctures.",
+    "prevention": [
+      "Spray Streptocycline @ 0.1 g/L + Copper Oxychloride @ 2.5 g/L at 15-day intervals during new flush",
+      "Control leaf miners using Azadirachtin (Neem oil 1%) or Spinosad @ 0.4 ml/L",
+      "Prune and burn canker-infected twigs before the monsoon flush"
+    ]
+  },
+  {
+    "id": "guava",
+    "name": "Guava Tree (Koyya)",
+    "tamilName": "கொய்யா (Koyya)",
+    "scientificName": "Psidium guajava",
+    "category": "Fruits and Fruit Trees",
+    "icon": "🍐",
+    "growthPeriod": "Perennial (30+ Years)",
+    "optimalTemperature": "23°C – 32°C",
+    "waterNeed": "Low",
+    "soilType": "Versatile; tolerates shallow soils, red soils, and mild alkaline soils with pH 6.0 – 8.0",
+    "sunlight": "Full direct sun; highly resilient to tropical heatwaves",
+    "majorTNRegions": [
+      "Dindigul (Ayakudi Hub)",
+      "Madurai",
+      "Salem",
+      "Coimbatore",
+      "Vellore",
+      "Theni"
+    ],
+    "stages": [
+      {
+        "stage": "Layer / Graft Growth",
+        "duration": "Year 1-2",
+        "description": "Smooth copper-colored peeling bark and opposite oblong leaves."
+      },
+      {
+        "stage": "White Tufted Blossom",
+        "duration": "Flushes 2-3 times/yr",
+        "description": "White flowers with hundreds of prominent tufted stamens bloom."
+      },
+      {
+        "stage": "Fruit Bulking",
+        "duration": "90-110 Days",
+        "description": "Globose to piriform fruits swell, packing vitamin C and fiber."
+      },
+      {
+        "stage": "Ripe Harvest",
+        "duration": "120-140 Days",
+        "description": "Skin turns from dark green to pale yellowish-green with sweet aroma."
+      }
+    ],
+    "commonDiseases": [
+      "Guava Wilt",
+      "Anthracnose",
+      "Fruit Fly"
+    ],
+    "funFact": "Ayakudi near Palani is celebrated across Tamil Nadu as the 'Guava Capital', renowned for sweet, crisp, high-vitamin C cultivars like Lucknow-49 and Red Guava!",
+    "harvestYield": "120 – 160 kg / tree / year",
+    "basicPractices": [
+      "Perform light bending and pruning of branches to stimulate new flowering flushes.",
+      "Adopt Lucknow 49 (Sardar Guava) or Arka Kiran for high commercial yields.",
+      "Install methyl eugenol pheromone traps @ 10/ha to trap male fruit flies."
+    ],
+    "diseaseKey": "guava-wilt",
+    "diseaseName": "Guava Wilt",
+    "scientificDisease": "Fusarium oxysporum f. sp. psidii",
+    "tamilDisease": "கொய்யா வாடல் நோய்",
+    "confidence": 92,
+    "healthStatus": "Critical",
+    "severity": "High",
+    "symptoms": [
+      "Yellowing and browning of leaves on one branch, followed by rapid whole-tree wilting",
+      "Leaves turn dull, curl upward, and dry out while remaining attached to dead branches",
+      "Vascular discoloration: dark brown streaks visible inside split xylem wood"
+    ],
+    "cause": "Soil-borne fungal pathogen Fusarium oxysporum attacking roots through nematode wounds in alkaline soils.",
+    "prevention": [
+      "Drench root zone with Carbendazim 0.2% or Copper Oxychloride 0.3% around affected basin",
+      "Incorporate neem cake @ 5 kg/tree + Trichoderma viride @ 50 g/tree into soil annually",
+      "Maintain soil drainage and avoid excessive soil compaction"
+    ]
+  },
+  {
+    "id": "papaya",
+    "name": "Papaya",
+    "tamilName": "பப்பாளி (Pappaali)",
+    "scientificName": "Carica papaya",
+    "category": "Fruits and Fruit Trees",
+    "icon": "🍈",
+    "growthPeriod": "2 – 3 Years",
+    "optimalTemperature": "24°C – 35°C",
+    "waterNeed": "Moderate",
+    "soilType": "Deep, well-drained sandy loam rich in organic matter; extremely vulnerable to waterlogging",
+    "sunlight": "Direct hot tropical sunshine; zero tolerance for stagnant surface water",
+    "majorTNRegions": [
+      "Coimbatore",
+      "Erode",
+      "Tiruppur",
+      "Salem",
+      "Dindigul",
+      "Theni"
+    ],
+    "stages": [
+      {
+        "stage": "Seedling to Hollow Stem",
+        "duration": "45-60 Days",
+        "description": "Grows into a single unbranched hollow fleshy stem with large palmate leaves."
+      },
+      {
+        "stage": "Flower Bud Emergence",
+        "duration": "3-4 Months",
+        "description": "Dioecious or gynodioecious flowers emerge in leaf axils."
+      },
+      {
+        "stage": "Fruit Development",
+        "duration": "5-8 Months",
+        "description": "Large oblong fruits cluster tightly along the upper trunk."
+      },
+      {
+        "stage": "Yellow Ripening",
+        "duration": "9-12 Months",
+        "description": "Skin turns golden-yellow; rich orange flesh accumulates papain and lycopene."
+      }
+    ],
+    "commonDiseases": [
+      "Papaya Ring Spot Virus (PRSV)",
+      "Foot Rot / Collar Rot",
+      "Anthracnose"
+    ],
+    "funFact": "Coimbatore's TNAU pioneered the world-renowned 'CO 2' and 'CO 7' red-fleshed papayas, cultivated extensively for papain enzyme extraction used in pharmaceuticals!",
+    "harvestYield": "80 – 120 tonnes / hectare",
+    "basicPractices": [
+      "Plant on high raised beds with trench drains to prevent deadly collar rot.",
+      "Spray micronutrient mixture containing Boron and Zinc to avoid fruit lumpy bumps.",
+      "Rogue out male plants in dioecious varieties maintaining 1 male for 10 females."
+    ],
+    "diseaseKey": "papaya-ring-spot",
+    "diseaseName": "Papaya Ring Spot",
+    "scientificDisease": "Papaya Ring Spot Virus (PRSV)",
+    "tamilDisease": "பப்பாளி வளைய புள்ளி நோய்",
+    "confidence": 94,
+    "healthStatus": "Critical",
+    "severity": "High",
+    "symptoms": [
+      "Severe yellow-green mosaic mottling and leaf blister puckering on young crown leaves",
+      "Prominent dark green water-soaked oily streaks on petioles and upper trunk",
+      "Diagnostic concentric circular green ring spots on developing fruit skin"
+    ],
+    "cause": "Potyvirus transmitted non-persistently by aphid vectors (Aphis gossypii and Myzus persicae).",
+    "prevention": [
+      "Plant border barrier rows of 3 lines of maize or sorghum 1 month before papaya planting",
+      "Spray Dimethoate @ 1.5 ml/L or Imidacloprid @ 0.5 ml/L to suppress aphids",
+      "Adopt TNAU-recommended cross-protection or tolerant varieties (Red Lady 786, CO 8)"
+    ]
+  },
+  {
+    "id": "custard-apple",
+    "name": "Custard Apple (Seethapazham)",
+    "tamilName": "சீதாப்பழம் (Seethapazham)",
+    "scientificName": "Annona squamosa",
+    "category": "Fruits and Fruit Trees",
+    "icon": "🍏",
+    "growthPeriod": "Perennial (20+ Years)",
+    "optimalTemperature": "22°C – 35°C",
+    "waterNeed": "Low",
+    "soilType": "Extremely hardy; thrives in rocky, gravelly, marginal red soils and dry hill slopes",
+    "sunlight": "Full blazing sun; naturally repellent to stray cattle and goats",
+    "majorTNRegions": [
+      "Dindigul",
+      "Salem",
+      "Krishnagiri",
+      "Vellore",
+      "Tirunelveli",
+      "Madurai"
+    ],
+    "stages": [
+      {
+        "stage": "Graft Establishment",
+        "duration": "Year 1-2",
+        "description": "Semi-deciduous small tree with aromatic lanceolate leaves."
+      },
+      {
+        "stage": "Greenish Drooping Flowers",
+        "duration": "Mar – May",
+        "description": "Fleshy three-petaled greenish flowers open with sweet fragrance."
+      },
+      {
+        "stage": "Tuberculate Fruit Bulking",
+        "duration": "Jun – Aug",
+        "description": "Pellicle segments swell into a tuberculate aggregate fruit."
+      },
+      {
+        "stage": "Maturity & Softening",
+        "duration": "Sep – Nov",
+        "description": "Grooves between segments turn creamy-white; fruit emits heavenly aroma."
+      }
+    ],
+    "commonDiseases": [
+      "Anthracnose & Fruit Rot",
+      "Mealybug",
+      "Alternaria Leaf Spot"
+    ],
+    "funFact": "Custard Apple leaves contain natural annonaceous acetogenins that are toxic to insects and cattle, making it virtually immune to stray animal grazing!",
+    "harvestYield": "8 – 12 tonnes / hectare",
+    "basicPractices": [
+      "Space trees at 5 x 5 m on wasteland and rocky hill borders.",
+      "Spray Neem oil 2% to control white mealybugs that cluster between fruit segments.",
+      "Harvest fruits when the skin between the tuberculate segments turns creamy white."
+    ],
+    "diseaseKey": "custard-apple-anthracnose",
+    "diseaseName": "Anthracnose & Fruit Rot",
+    "scientificDisease": "Colletotrichum gloeosporioides",
+    "tamilDisease": "சீதாப்பழ அழுகல் நோய்",
+    "confidence": 91,
+    "healthStatus": "Needs Attention",
+    "severity": "Medium",
+    "symptoms": [
+      "Dark brown to black sunken spots on leaves, flowers, and developing fruits",
+      "Fruits shrivel, mummify, turn jet-black, and remain hanging on the tree",
+      "Twig die-back and premature leaf shedding during rainy monsoon months"
+    ],
+    "cause": "Fungal pathogen Colletotrichum gloeosporioides spreading through rain splash under humid conditions.",
+    "prevention": [
+      "Foliar spray with Copper Oxychloride 50% WP @ 2.5 g/L or Carbendazim @ 1.0 g/L",
+      "Remove and destroy mummified dried black fruits from trees during annual pruning",
+      "Maintain open canopy architecture to permit morning breeze drying"
+    ]
+  },
+  {
+    "id": "jackfruit",
+    "name": "Jackfruit Tree (Palaa)",
+    "tamilName": "பலா மரம் (Palaa)",
+    "scientificName": "Artocarpus heterophyllus",
+    "category": "Fruits and Fruit Trees",
+    "icon": "🍈",
+    "growthPeriod": "Perennial (80+ Years)",
+    "optimalTemperature": "22°C – 35°C",
+    "waterNeed": "Low",
+    "soilType": "Deep, fertile, well-drained alluvial and red laterite soils with deep subsoil",
+    "sunlight": "Full direct tropical sunshine; high humidity accelerates fruit filling",
+    "majorTNRegions": [
+      "Cuddalore (Panruti Hub)",
+      "Kanyakumari",
+      "Dindigul (Sirumalai)",
+      "Theni",
+      "Salem"
+    ],
+    "stages": [
+      {
+        "stage": "Graft to Sturdy Trunk",
+        "duration": "Year 1-4",
+        "description": "Grows into a massive evergreen tree with thick dark green leathery leaves."
+      },
+      {
+        "stage": "Cauliflory (Trunk Blossoming)",
+        "duration": "Dec – Feb",
+        "description": "Male and female flower spikes emerge directly from the main trunk and mature branches."
+      },
+      {
+        "stage": "Syncarp Fruit Swelling",
+        "duration": "Feb – Apr",
+        "description": "Giant aggregate fruits covered with conical spines swell up to 30 kg!"
+      },
+      {
+        "stage": "Sweet Aroma & Ripening",
+        "duration": "May – Jul",
+        "description": "Spines flatten; fruit yields to pressure and emits intoxicating honey aroma."
+      }
+    ],
+    "commonDiseases": [
+      "Fruit Rot (Rhizopus stolonifer)",
+      "Pink Disease",
+      "Stem Borer"
+    ],
+    "funFact": "Panruti in Cuddalore district is world-renowned as the 'Jackfruit Capital of Tamil Nadu', cultivating giant honey-sweet 'Thenkai Palaa' celebrated across ancient Sangam literature ('Mukkani')!",
+    "harvestYield": "60 – 100 fruits / tree / year",
+    "basicPractices": [
+      "Plant grafts spaced 10 x 10 m in deep fertile pits.",
+      "Bag young fruits in woven nylon mesh or craft paper to prevent fruit flies and rot.",
+      "Apply 50 kg organic compost and 2 kg wood ash per tree before monsoon rains."
+    ],
+    "diseaseKey": "jackfruit-blossom-rot",
+    "diseaseName": "Rhizopus Fruit Rot (Soft Rot)",
+    "scientificDisease": "Rhizopus stolonifer",
+    "tamilDisease": "பலா பிஞ்சு அழுகல் நோய்",
+    "confidence": 93,
+    "healthStatus": "Needs Attention",
+    "severity": "High",
+    "symptoms": [
+      "Water-soaked soft brownish spots on young male flower spikes and tender fruitlets",
+      "Dense whisker-like black fungal mycelium and pinhead sporangia envelop the fruitlet",
+      "Tender fruits turn into mushy, rotting black pulp and drop off the trunk"
+    ],
+    "cause": "Wound-invading fungus Rhizopus stolonifer proliferating during warm rainy periods with high relative humidity (>85%).",
+    "prevention": [
+      "Foliar spray with Copper Oxychloride 50% WP @ 2.5 g/L or Mancozeb @ 2.0 g/L at early flowering",
+      "Remove and incinerate rotting male spikes and fallen fruitlets promptly",
+      "Thin overcrowded fruit clusters along the trunk to improve aeration"
+    ]
+  },
+  {
+    "id": "sapota",
+    "name": "Sapota (Chikoo)",
+    "tamilName": "சப்போட்டா (Sapota)",
+    "scientificName": "Manilkara zapota",
+    "category": "Fruits and Fruit Trees",
+    "icon": "🥔",
+    "growthPeriod": "Perennial (40+ Years)",
+    "optimalTemperature": "24°C – 38°C",
+    "waterNeed": "Low",
+    "soilType": "Deep sandy loam, alluvium, and red laterites; highly tolerant of coastal salt spray",
+    "sunlight": "Warm, sunny, humid coastal and tropical climate",
+    "majorTNRegions": [
+      "Dindigul",
+      "Virudhunagar",
+      "Salem",
+      "Coimbatore",
+      "Theni",
+      "Tirunelveli"
+    ],
+    "stages": [
+      {
+        "stage": "Graft Establishment",
+        "duration": "Year 1-2",
+        "description": "Dense pyramidal evergreen canopy with glossy spirally arranged leaves."
+      },
+      {
+        "stage": "Continuous Flowering",
+        "duration": "Year-round Flushes",
+        "description": "Small bell-like white flowers bloom continuously in leaf axils."
+      },
+      {
+        "stage": "Fruit Bulking",
+        "duration": "4-5 Months",
+        "description": "Round or oval fruits develop sandy brown scurf skin packed with sweet latex."
+      },
+      {
+        "stage": "Harvest Maturity",
+        "duration": "6-7 Months",
+        "description": "Brown scurf rubs off revealing green skin underneath; pulp turns sweet malty brown."
+      }
+    ],
+    "commonDiseases": [
+      "Leaf Spot (Phaeophleospora indica)",
+      "Sooty Mold",
+      "Flat Limb"
+    ],
+    "funFact": "Dindigul and Virudhunagar are Tamil Nadu's sapota hubs, cultivating the famous 'Cricket Ball' and 'PKM 1' varieties prized for their malty brown honey sweetness!",
+    "harvestYield": "15 – 22 tonnes / hectare",
+    "basicPractices": [
+      "Cultivate high-yielding TNAU varieties like PKM 1, PKM 2, and Cricket Ball.",
+      "Scrape fruit skin lightly during harvest: if green underneath, the fruit is mature for harvest.",
+      "Spray Mancozeb @ 2 g/L to prevent fungal foliar leaf spots."
+    ],
+    "diseaseKey": "sapota-leaf-spot",
+    "diseaseName": "Sapota Leaf Spot",
+    "scientificDisease": "Phaeophleospora indica",
+    "tamilDisease": "சப்போட்டா இலைப்புள்ளி நோய்",
+    "confidence": 92,
+    "healthStatus": "Moderate",
+    "severity": "Medium",
+    "symptoms": [
+      "Small circular to irregular dark purplish-brown spots on older leaves",
+      "Centers of older lesions turn whitish-grey with distinct dark margins",
+      "Severe spotting causes premature yellowing and dropping of functional leaves"
+    ],
+    "cause": "Fungal pathogen Phaeophleospora indica spreading during warm, rainy monsoon periods.",
+    "prevention": [
+      "Foliar spray with Mancozeb 75% WP @ 2.0 g/L or Carbendazim @ 1.0 g/L",
+      "Prune congested internal branches to allow sunlight penetration",
+      "Collect and burn fallen spotted leaves"
+    ]
+  },
+  {
+    "id": "pomegranate",
+    "name": "Pomegranate",
+    "tamilName": "மாதுளை (Maadhulai)",
+    "scientificName": "Punica granatum",
+    "category": "Fruits and Fruit Trees",
+    "icon": "🍎",
+    "growthPeriod": "Perennial (25+ Years)",
+    "optimalTemperature": "25°C – 38°C",
+    "waterNeed": "Low",
+    "soilType": "Deep, well-drained loams and alluvial soils; tolerant of marginal and mild alkaline soils",
+    "sunlight": "Hot, dry climate with bright sunshine; low humidity required during fruit ripening",
+    "majorTNRegions": [
+      "Dindigul",
+      "Tiruppur",
+      "Coimbatore",
+      "Salem",
+      "Theni",
+      "Virudhunagar"
+    ],
+    "stages": [
+      {
+        "stage": "Air Layer Sapling",
+        "duration": "Year 1-2",
+        "description": "Multi-stemmed bushy shrub with glossy oblong-lanceolate leaves."
+      },
+      {
+        "stage": "Fiery Red Flowering",
+        "duration": "45-60 Days",
+        "description": "Showy bright scarlet tubular flowers bloom (Bahar treatment induces flush)."
+      },
+      {
+        "stage": "Fruit Swelling & Aril Fill",
+        "duration": "4-5 Months",
+        "description": "Globose fruits with persistent calyx pack hundreds of ruby-red juice arils."
+      },
+      {
+        "stage": "Ruby Rind Maturation",
+        "duration": "5-6 Months",
+        "description": "Rind turns rich red or yellow-pink; makes metallic sound when tapped."
+      }
+    ],
+    "commonDiseases": [
+      "Bacterial Blight / Oily Spot",
+      "Anthracnose",
+      "Fruit Borer"
+    ],
+    "funFact": "Pomegranates are hailed as sacred superfruits in Siddha medicine, celebrated across Tamil Nadu for their antioxidant punicalagins that purify the blood!",
+    "harvestYield": "12 – 18 tonnes / hectare",
+    "basicPractices": [
+      "Train to 3–4 main stems from base; prune ground suckers continuously.",
+      "Induce uniform flowering via regulated water stress (Bahar treatment).",
+      "Spray Calcium Chloride @ 2 g/L during fruit growth to avoid rind splitting."
+    ],
+    "diseaseKey": "pomegranate-bacterial-blight",
+    "diseaseName": "Bacterial Blight (Oily Spot)",
+    "scientificDisease": "Xanthomonas axonopodis pv. punicae",
+    "tamilDisease": "மாதுளை பாக்டீரியா கருகல் / எண்ணெய் புள்ளி நோய்",
+    "confidence": 95,
+    "healthStatus": "Critical",
+    "severity": "High",
+    "symptoms": [
+      "Dark brown to black angular water-soaked oily spots on leaves",
+      "Diagnostic brown to black 'L' or 'Y' shaped cracks on developing fruit rind",
+      "Infected branches develop stem cankers, crack open, and snap easily"
+    ],
+    "cause": "Bacterial pathogen Xanthomonas axonopodis pv. punicae spreading via wind-driven rain and pruning tools.",
+    "prevention": [
+      "Spray Streptocycline @ 0.5 g/L + Copper Oxychloride @ 2.5 g/L at 10-day intervals",
+      "Paste stem cuts immediately with Bordeaux paste (10%) after pruning",
+      "Sterilize pruning shears in 70% alcohol between cuts"
+    ]
+  },
+  {
+    "id": "amla",
+    "name": "Amla (Nellikai)",
+    "tamilName": "நெல்லிக்காய் (Nellikai)",
+    "scientificName": "Phyllanthus emblica",
+    "category": "Fruits and Fruit Trees",
+    "icon": "🫒",
+    "growthPeriod": "Perennial (50+ Years)",
+    "optimalTemperature": "22°C – 38°C",
+    "waterNeed": "Low",
+    "soilType": "Light sandy loams, gravelly red soils, and sodic soils (pH 6.5 – 9.0)",
+    "sunlight": "Full hot sunshine; extraordinarily drought-hardy semi-arid tree",
+    "majorTNRegions": [
+      "Dindigul",
+      "Tirunelveli",
+      "Virudhunagar",
+      "Salem",
+      "Coimbatore",
+      "Tuticorin"
+    ],
+    "stages": [
+      {
+        "stage": "Budded Graft Growth",
+        "duration": "Year 1-3",
+        "description": "Feathery pinnate-like branchlets resemble compound leaves with flaking grey bark."
+      },
+      {
+        "stage": "Greenish-Yellow Flowering",
+        "duration": "Feb – May",
+        "description": "Clusters of minute yellowish flowers bloom on bare branchlets."
+      },
+      {
+        "stage": "Dormancy & Fruit Swelling",
+        "duration": "Jul – Oct",
+        "description": "Fertilised ovaries enter dormancy then swell rapidly after autumn rains."
+      },
+      {
+        "stage": "Translucent Ripe Harvest",
+        "duration": "Nov – Jan",
+        "description": "Globular six-ribbed greenish-yellow fruits turn translucent; packed with vitamin C."
+      }
+    ],
+    "commonDiseases": [
+      "Amla Rust (Ravenelia emblicae)",
+      "Anthracnose",
+      "Bark Eating Caterpillar"
+    ],
+    "funFact": "Ancient Tamil Sangam queen Avvaiyar was gifted a rare immortal Amla fruit by king Athiyaman, celebrated for holding twenty times more vitamin C than oranges!",
+    "harvestYield": "15 – 20 tonnes / hectare",
+    "basicPractices": [
+      "Plant TNAU-developed high-yielding varieties like NA 7, Krishna, and Kanchan.",
+      "Prune dead twiggy branchlets annually after harvest.",
+      "Mulch tree basins with dry organic matter to conserve root moisture."
+    ],
+    "diseaseKey": "amla-rust",
+    "diseaseName": "Amla Rust",
+    "scientificDisease": "Ravenelia emblicae",
+    "tamilDisease": "நெல்லிக்காய் துரு நோய்",
+    "confidence": 92,
+    "healthStatus": "Needs Attention",
+    "severity": "Medium",
+    "symptoms": [
+      "Small circular purplish-brown spots on leaflets and tender green fruits",
+      "Pustules erupt into powdery rust-colored spores that cause fruit scabbing",
+      "Severely affected fruits crack, drop prematurely, and fail to mature"
+    ],
+    "cause": "Fungal pathogen Ravenelia emblicae proliferating in humid post-monsoon weather.",
+    "prevention": [
+      "Foliar spray with Wettable Sulphur 80% WP @ 2.5 g/L or Mancozeb @ 2.0 g/L",
+      "Spray twice at 15-day intervals during fruit development (July–August)",
+      "Prune dense internal shoots to allow morning breeze circulation"
+    ]
+  },
+  {
+    "id": "neem",
+    "name": "Neem Tree (Veppamaram)",
+    "tamilName": "வேப்பமரம் (Veppamaram)",
+    "scientificName": "Azadirachta indica",
+    "category": "Flowers, Medicinal and Other Plants",
+    "icon": "🌿",
+    "growthPeriod": "Perennial (100+ Years)",
+    "optimalTemperature": "24°C – 45°C",
+    "waterNeed": "Low",
+    "soilType": "Extremely versatile; thrives in rocky, gravelly, saline, and degraded soils",
+    "sunlight": "Full scorching tropical sun; celebrated natural air purifier and biopesticide",
+    "majorTNRegions": [
+      "Widespread across all 38 districts of Tamil Nadu"
+    ],
+    "stages": [
+      {
+        "stage": "Sapling to Sturdy Tree",
+        "duration": "Year 1-5",
+        "description": "Pinnate serrated green leaves; deeply furrowed dark brown bark."
+      },
+      {
+        "stage": "Sweet White Blossom Flush",
+        "duration": "Mar – Apr (Tamil New Year)",
+        "description": "Panicles of fragrant star-like white flowers bloom alongside fresh tender red shoots."
+      },
+      {
+        "stage": "Green Drupe Berry Set",
+        "duration": "Apr – May",
+        "description": "Small ellipsoidal green berries cluster thickly in leaf axils."
+      },
+      {
+        "stage": "Golden Berry Fall",
+        "duration": "Jun – Jul",
+        "description": "Ripe berries turn yellow, containing azadirachtin-rich seeds for neem oil extraction."
+      }
+    ],
+    "commonDiseases": [
+      "Neem Die-Back (Phomopsis azadirachtae)",
+      "Powdery Mildew",
+      "Tea Mosquito Bug"
+    ],
+    "funFact": "Neem is revered as the 'Village Pharmacy of India'; its tender flower blossoms are traditionally cooked into bitter-sweet 'Veppam Poo Rasam' on Tamil New Year's Day!",
+    "harvestYield": "30 – 50 kg seeds / tree / year",
+    "basicPractices": [
+      "Crush neem seeds to produce cold-pressed neem oil (NSKE 5%) for organic pest control.",
+      "Use neem cake as organic soil fertilizer to suppress root-knot nematodes.",
+      "Plant as windbreak and shade avenue tree around farm field boundaries."
+    ],
+    "diseaseKey": "neem-dieback",
+    "diseaseName": "Neem Die-Back",
+    "scientificDisease": "Phomopsis azadirachtae",
+    "tamilDisease": "வேப்பமரம் நுனிகருகல் நோய்",
+    "confidence": 93,
+    "healthStatus": "Needs Attention",
+    "severity": "High",
+    "symptoms": [
+      "Drying and withering of leaves and twigs starting from the branch tip downward ('Die-Back')",
+      "Leaves turn chlorotic brown, curl up, and fall off, leaving skeletal bare branches",
+      "Inflorescences turn black and rot before setting fruit"
+    ],
+    "cause": "Fungal pathogen Phomopsis azadirachtae attacking during warm humid monsoon flushes.",
+    "prevention": [
+      "Prune affected branches 5 cm below the dead margin and burn infected twigs",
+      "Spray Carbendazim 50% WP @ 1.0 g/L or Mancozeb @ 2.0 g/L during new shoot emergence",
+      "Paint cut branch ends with Bordeaux paste (10%)"
+    ]
+  },
+  {
+    "id": "rose",
+    "name": "Rose Plant (Roja)",
+    "tamilName": "ரோஜா (Roja)",
+    "scientificName": "Rosa rubiginosa",
+    "category": "Flowers, Medicinal and Other Plants",
+    "icon": "🌹",
+    "growthPeriod": "Perennial (10+ Years)",
+    "optimalTemperature": "18°C – 28°C",
+    "waterNeed": "Moderate",
+    "soilType": "Rich, fertile, well-drained loamy soil rich in organic humus with pH 6.0 – 6.8",
+    "sunlight": "Minimum 6 hours of bright morning sun; sheltered from scorching heatwave winds",
+    "majorTNRegions": [
+      "Dharmapuri",
+      "Krishnagiri (Hosur Rose Belt)",
+      "Dindigul",
+      "Nilgiris",
+      "Salem"
+    ],
+    "stages": [
+      {
+        "stage": "Pruned Bush Flush",
+        "duration": "15-20 Days",
+        "description": "Pruned canes burst with vibrant reddish young shoots."
+      },
+      {
+        "stage": "Vegetative Compound Leaves",
+        "duration": "20-25 Days",
+        "description": "Serrated glossy leaflets develop on thorny canes."
+      },
+      {
+        "stage": "Flower Bud Swelling",
+        "duration": "12-15 Days",
+        "description": "Sepals peel back revealing folded velvety scented petals."
+      },
+      {
+        "stage": "Cut Flower Harvest",
+        "duration": "Every morning",
+        "description": "Cut at tight bud stage for Chennai, Bangalore, and export markets."
+      }
+    ],
+    "commonDiseases": [
+      "Black Spot (Diplocarpon rosae)",
+      "Powdery Mildew",
+      "Die-Back"
+    ],
+    "funFact": "Hosur in Krishnagiri district is India's leading cut-rose export hub, exporting millions of 'Taj Mahal' and 'Grand Gala' Dutch roses worldwide for Valentine's Day!",
+    "harvestYield": "180 – 250 flowers / plant / year",
+    "basicPractices": [
+      "Perform annual pruning in October, cutting canes 45 cm above ground to an outward-facing bud.",
+      "Apply 10 kg FYM + 50 g rose fertilizer mixture per bush post-pruning.",
+      "Spray Neem oil 1% or Azoxystrobin @ 1 ml/L to ward off powdery mildew and black spot."
+    ],
+    "diseaseKey": "rose-black-spot",
+    "diseaseName": "Rose Black Spot",
+    "scientificDisease": "Diplocarpon rosae",
+    "tamilDisease": "ரோஜா கருப்பு புள்ளி நோய்",
+    "confidence": 94,
+    "healthStatus": "Needs Attention",
+    "severity": "Medium",
+    "symptoms": [
+      "Fringed circular black spots on upper leaf surfaces surrounded by bright yellow chlorosis",
+      "Infected leaves drop prematurely, leaving lower canes completely stripped of foliage",
+      "Stems develop purple-red blistered cankers that weaken flowering canes"
+    ],
+    "cause": "Fungal spores of Diplocarpon rosae spreading through splashing water drops and high relative humidity.",
+    "prevention": [
+      "Foliar spray with Trifloxystrobin + Tebuconazole @ 0.5 g/L or Mancozeb @ 2.0 g/L",
+      "Water at the base of the plant using drip lines; never wet rose leaves in the evening",
+      "Collect and burn all fallen infected black-spotted leaves"
+    ]
+  },
+  {
+    "id": "jasmine",
+    "name": "Jasmine Plant (Malligai)",
+    "tamilName": "மல்லிகை (Malligai)",
+    "scientificName": "Jasminum sambac",
+    "category": "Flowers, Medicinal and Other Plants",
+    "icon": "🌸",
+    "growthPeriod": "Perennial (15+ Years)",
+    "optimalTemperature": "24°C – 35°C",
+    "waterNeed": "Moderate",
+    "soilType": "Well-drained sandy loam and red loam rich in organic matter with pH 6.5 – 7.5",
+    "sunlight": "Warm, sunny days; minimum 6–8 hours of intense direct sunshine",
+    "majorTNRegions": [
+      "Madurai (Madurai Malli GI)",
+      "Dindigul",
+      "Tirunelveli",
+      "Virudhunagar",
+      "Erode"
+    ],
+    "stages": [
+      {
+        "stage": "Pruned Bush Sprouting",
+        "duration": "15-20 Days",
+        "description": "Annual pruning in December induces fresh productive lateral shoots."
+      },
+      {
+        "stage": "Dark Glossy Foliage",
+        "duration": "25-30 Days",
+        "description": "Opposite ovate glossy green leaves cover dense bushy shrub."
+      },
+      {
+        "stage": "Flower Bud Clustering",
+        "duration": "15-20 Days",
+        "description": "Tight, firm, pure white buds cluster in cymes."
+      },
+      {
+        "stage": "Fragrant Evening Bloom",
+        "duration": "Harvested daily at dawn",
+        "description": "Picked in early morning; opens at dusk releasing divine aroma."
+      }
+    ],
+    "commonDiseases": [
+      "Leaf Blight",
+      "Wilt (Fusarium solani)",
+      "Budworm"
+    ],
+    "funFact": "'Madurai Malli' holds a world-famous Geographical Indication (GI) tag, celebrated for its unique thick petals, long shelf-life, and intoxicating heavenly fragrance!",
+    "harvestYield": "8 – 10 tonnes / hectare (Fresh Buds)",
+    "basicPractices": [
+      "Prune bushes annually in last week of November to 45 cm height to trigger peak summer flowering.",
+      "Apply 10 kg FYM + 120 g Urea, 240 g Superphosphate, and 240 g Potash per bush annually.",
+      "Harvest tight white buds early in the morning before 8 AM for prime market fragrance."
+    ],
+    "diseaseKey": "jasmine-leaf-blight",
+    "diseaseName": "Jasmine Leaf Blight",
+    "scientificDisease": "Alternaria jasmini",
+    "tamilDisease": "மல்லிகை இலைக்கருகல் நோய்",
+    "confidence": 94,
+    "healthStatus": "Needs Attention",
+    "severity": "Medium",
+    "symptoms": [
+      "Reddish-brown circular to irregular spots on leaves expanding into dark necrotic blights",
+      "Infected floral buds turn brown, shrivel, and fail to open",
+      "Severe canopy defoliation drastically reducing daily flower bud yield"
+    ],
+    "cause": "Airborne fungal pathogen Alternaria jasmini thriving in warm temperatures with rain showers.",
+    "prevention": [
+      "Foliar spray with Mancozeb 75% WP @ 2.0 g/L or Copper Oxychloride @ 2.5 g/L",
+      "Spray twice at 15-day intervals during new vegetative flushes",
+      "Maintain clean bush aeration through proper pruning"
+    ]
+  },
+  {
+    "id": "hibiscus",
+    "name": "Hibiscus (Semparuthi)",
+    "tamilName": "செம்பருத்தி (Semparuthi)",
+    "scientificName": "Hibiscus rosa-sinensis",
+    "category": "Flowers, Medicinal and Other Plants",
+    "icon": "🌺",
+    "growthPeriod": "Perennial (20+ Years)",
+    "optimalTemperature": "20°C – 35°C",
+    "waterNeed": "Moderate",
+    "soilType": "Fertile, loose, well-drained loams rich in compost; slightly acidic to neutral",
+    "sunlight": "Full bright sunshine; requires high light to produce continuous vibrant blooms",
+    "majorTNRegions": [
+      "Widespread across all districts; extensive in home gardens & temple farms"
+    ],
+    "stages": [
+      {
+        "stage": "Cuttings Establishment",
+        "duration": "30-45 Days",
+        "description": "Semi-hardwood stem cuttings root quickly in potting compost."
+      },
+      {
+        "stage": "Glossy Ovate Foliage",
+        "duration": "60-90 Days",
+        "description": "Deep green serrated glossy leaves form an evergreen bush 1.5–3 m tall."
+      },
+      {
+        "stage": "Solitary Bud Swelling",
+        "duration": "15-20 Days",
+        "description": "Large tubular buds emerge singly in upper leaf axils."
+      },
+      {
+        "stage": "Showy Bloom",
+        "duration": "Blooms daily",
+        "description": "Magnificent five-petaled trumpet flowers bloom with prominent protruding staminal column."
+      }
+    ],
+    "commonDiseases": [
+      "Leaf Curl Virus",
+      "Mealybug Infestation",
+      "Black Leaf Spot"
+    ],
+    "funFact": "Red Hibiscus petals ('Semparuthi') are prized in traditional Tamil herbal hair oils for promoting lustrous hair growth and brewed into cooling herbal teas!",
+    "harvestYield": "300 – 500 flowers / bush / year",
+    "basicPractices": [
+      "Prune lightly in spring to maintain compact bushy form and promote new flower buds.",
+      "Wash off white mealybug clusters with strong jet of water mixed with soap spray.",
+      "Apply vermicompost and neem cake every 3 months around the root zone."
+    ],
+    "diseaseKey": "hibiscus-leaf-curl",
+    "diseaseName": "Hibiscus Leaf Curl",
+    "scientificDisease": "Hibiscus Leaf Curl Virus",
+    "tamilDisease": "செம்பருத்தி இலைச்சுருள் நோய்",
+    "confidence": 92,
+    "healthStatus": "Needs Attention",
+    "severity": "High",
+    "symptoms": [
+      "Severe upward and downward curling and crinkling of leaf margins",
+      "Thickening and swelling of veins on the lower leaf surface ('Enation')",
+      "Stunted branch internodes with deformed, drop-prone floral buds"
+    ],
+    "cause": "Begomovirus transmitted by the whitefly vector (Bemisia tabaci).",
+    "prevention": [
+      "Foliar spray with Imidacloprid 17.8% SL @ 0.5 ml/L or Neem oil 2% to control whiteflies",
+      "Prune and destroy severely distorted curled branches",
+      "Keep garden borders weed-free to eliminate wild host reservoirs"
+    ]
+  },
+  {
+    "id": "marigold",
+    "name": "Marigold (Saamanthi)",
+    "tamilName": "சாமந்தி / செவ்வந்தி (Saamanthi)",
+    "scientificName": "Tagetes erecta",
+    "category": "Flowers, Medicinal and Other Plants",
+    "icon": "🌼",
+    "growthPeriod": "90 – 110 Days",
+    "optimalTemperature": "18°C – 30°C",
+    "waterNeed": "Moderate",
+    "soilType": "Well-drained rich sandy loam and clay loam with pH 6.5 – 7.5",
+    "sunlight": "Full, bright, unobstructed sunshine; shade causes leggy growth with few flowers",
+    "majorTNRegions": [
+      "Dharmapuri",
+      "Krishnagiri",
+      "Dindigul",
+      "Salem",
+      "Coimbatore",
+      "Sathyamangalam"
+    ],
+    "stages": [
+      {
+        "stage": "Seedling Nursery",
+        "duration": "20-25 Days",
+        "description": "Feathery pinnatisect leaves develop; ready for field transplanting."
+      },
+      {
+        "stage": "Vegetative Branching",
+        "duration": "25-30 Days",
+        "description": "Aromatic foliage branches profusely; root exude natural nematicides."
+      },
+      {
+        "stage": "Golden Bud Flushing",
+        "duration": "15-20 Days",
+        "description": "Globular floral heads develop on terminal peduncles."
+      },
+      {
+        "stage": "Abundant Flower Harvests",
+        "duration": "30-40 Days",
+        "description": "Dense golden-orange and bright yellow flower heads picked every 3–4 days."
+      }
+    ],
+    "commonDiseases": [
+      "Alternaria Leaf Spot & Flower Blight",
+      "Collar Rot",
+      "Aster Yellows"
+    ],
+    "funFact": "Marigold roots secrete alpha-terthienyl, a natural biochemical that destroys deadly root-knot nematodes, making it Tamil Nadu's favorite eco-friendly companion crop in vegetable fields!",
+    "harvestYield": "12 – 18 tonnes / hectare",
+    "basicPractices": [
+      "Pinch terminal shoots at 30 DAT to induce dense bushy lateral flowering branches.",
+      "Intercrop with tomato, brinjal, or cotton as an eco-friendly nematode trap crop.",
+      "Harvest fully open flower heads in cool early morning hours."
+    ],
+    "diseaseKey": "marigold-alternaria",
+    "diseaseName": "Alternaria Leaf Spot & Flower Blight",
+    "scientificDisease": "Alternaria tagetica",
+    "tamilDisease": "சாமந்தி இலைப்புள்ளி / மலர்க்கருகல் நோய்",
+    "confidence": 93,
+    "healthStatus": "Needs Attention",
+    "severity": "Medium",
+    "symptoms": [
+      "Minute circular brown spots on leaves that expand into large concentric necrotic patches",
+      "Infected flower petals develop water-soaked brown rot spots, turning into slimy mush",
+      "Premature drying and withering of flower buds before opening"
+    ],
+    "cause": "Airborne fungus Alternaria tagetica favored by warm humid weather with rain showers.",
+    "prevention": [
+      "Spray Mancozeb 75% WP @ 2.0 g/L or Iprodione @ 1.5 g/L at first symptom",
+      "Avoid overhead irrigation during flowering to keep flower heads dry",
+      "Collect and destroy withered rotten flower heads"
+    ]
+  },
+  {
+    "id": "tulsi",
+    "name": "Tulsi (Holy Basil)",
+    "tamilName": "துளசி (Thulasi)",
+    "scientificName": "Ocimum tenuiflorum",
+    "category": "Flowers, Medicinal and Other Plants",
+    "icon": "🪴",
+    "growthPeriod": "Perennial (3–5 Years)",
+    "optimalTemperature": "20°C – 35°C",
+    "waterNeed": "Moderate",
+    "soilType": "Fertile, loamy, well-aerated soil rich in organic humus with good drainage",
+    "sunlight": "Full bright sunshine; minimum 5–6 hours of direct solar exposure daily",
+    "majorTNRegions": [
+      "Cultivated in courtyards, temple gardens, and commercial medicinal farms statewide"
+    ],
+    "stages": [
+      {
+        "stage": "Seedling Sprouting",
+        "duration": "15-20 Days",
+        "description": "Minute aromatic seedlings establish; opposite ovate leaves develop."
+      },
+      {
+        "stage": "Bushy Branching",
+        "duration": "30-45 Days",
+        "description": "Square purple or green stems branch into an aromatic medicinal shrub."
+      },
+      {
+        "stage": "Terminal Spike Inflorescence",
+        "duration": "30-40 Days",
+        "description": "Purplish-white tubular flowers bloom along slender terminal verticillasters."
+      },
+      {
+        "stage": "Continuous Herb Harvest",
+        "duration": "Periodic",
+        "description": "Top tender shoots and aromatic eugenol-rich leaves harvested for herbal tea."
+      }
+    ],
+    "commonDiseases": [
+      "Powdery Mildew",
+      "Leaf Blight",
+      "Root Rot"
+    ],
+    "funFact": "Tulsi is revered as the 'Queen of Herbs' in Tamil households; its aromatic leaves release pure oxygen and eugenol essential oils with potent antiviral properties!",
+    "harvestYield": "3 – 5 tonnes / hectare",
+    "basicPractices": [
+      "Pinch terminal flower spikes regularly to keep the plant in vigorous leafy vegetative growth.",
+      "Avoid overwatering; soggy soil causes root collar rot in Holy Basil.",
+      "Spray neem oil 1% for organic pest protection without toxic chemicals."
+    ],
+    "diseaseKey": "tulsi-leaf-blight",
+    "diseaseName": "Tulsi Leaf Blight",
+    "scientificDisease": "Alternaria alternata",
+    "tamilDisease": "துளசி இலைக்கருகல் நோய்",
+    "confidence": 91,
+    "healthStatus": "Moderate",
+    "severity": "Medium",
+    "symptoms": [
+      "Dark brown circular to irregular necrotic spots on sacred aromatic leaves",
+      "Lesions coalesce, causing leaf margins to curl and shed prematurely",
+      "Stems develop dark streaks during wet, humid weather"
+    ],
+    "cause": "Airborne fungus Alternaria alternata proliferating under prolonged leaf dampness.",
+    "prevention": [
+      "Spray bio-fungicide Pseudomonas fluorescens @ 10 g/L or Neem oil 1%",
+      "Ensure full morning sunshine and well-drained pot aeration",
+      "Remove and compost lower infected leaves"
+    ]
+  },
+  {
+    "id": "aloe-vera",
+    "name": "Aloe Vera",
+    "tamilName": "கற்றாழை (Katrazhai)",
+    "scientificName": "Aloe barbadensis miller",
+    "category": "Flowers, Medicinal and Other Plants",
+    "icon": "🌵",
+    "growthPeriod": "Perennial (5–8 Years)",
+    "optimalTemperature": "24°C – 40°C",
+    "waterNeed": "Low",
+    "soilType": "Well-drained sandy loam, gravelly red soils, and coastal sand; intolerant of waterlogging",
+    "sunlight": "Full scorching sunlight; thick succulent CAM photosynthetic plant",
+    "majorTNRegions": [
+      "Thoothukudi",
+      "Tirunelveli",
+      "Virudhunagar",
+      "Dindigul",
+      "Madurai",
+      "Ramanathapuram"
+    ],
+    "stages": [
+      {
+        "stage": "Sucker / Pup Planting",
+        "duration": "20-30 Days",
+        "description": "Rhizome offsets (pups) root easily in dry loose soil."
+      },
+      {
+        "stage": "Rosette Canopy Expansion",
+        "duration": "4-6 Months",
+        "description": "Forms a dense stemless rosette of thick fleshy lanciform leaves."
+      },
+      {
+        "stage": "Succulent Gel Accumulation",
+        "duration": "8-12 Months",
+        "description": "Thick serrated spiny leaves store rich polysaccharides and soothing gel."
+      },
+      {
+        "stage": "Periodic Outer Leaf Harvest",
+        "duration": "Every 2-3 months",
+        "description": "Mature outer fleshy leaves harvested cleanly at stem base."
+      }
+    ],
+    "commonDiseases": [
+      "Aloe Rust (Uromyces aloes)",
+      "Bacterial Soft Rot",
+      "Root Rot"
+    ],
+    "funFact": "Aloe Vera ('Sothu Katrazhai') is celebrated in Siddha medicine as a supreme skin healer, natural coolant, and digestive detoxifier, cultivated extensively in coastal Tamil Nadu!",
+    "harvestYield": "30 – 45 tonnes / hectare",
+    "basicPractices": [
+      "Plant root suckers on raised ridges spaced 60 x 50 cm.",
+      "Water sparingly; allow soil to dry completely between irrigation cycles.",
+      "Harvest only mature lowest outer leaves, leaving inner rosette to grow."
+    ],
+    "diseaseKey": "aloe-rust",
+    "diseaseName": "Aloe Rust",
+    "scientificDisease": "Uromyces aloes",
+    "tamilDisease": "கற்றாழை துரு நோய்",
+    "confidence": 93,
+    "healthStatus": "Needs Attention",
+    "severity": "Medium",
+    "symptoms": [
+      "Distinct circular black to dark-brown spots surrounded by pale chlorotic rings on thick succulent leaves",
+      "Spots become sunken and hard, with dark spore pustules in the center",
+      "Severe infection disfigures fleshy leaves, rendering commercial cosmetic gel unusable"
+    ],
+    "cause": "Fungal pathogen Uromyces aloes spreading under cool, humid conditions and overcrowding.",
+    "prevention": [
+      "Foliar spray with Mancozeb @ 2.0 g/L or Wettable Sulphur @ 2.5 g/L at first appearance",
+      "Avoid overhead watering that wets the rosette heart",
+      "Prune and destroy severely spotted outer succulent leaves"
+    ]
+  },
+  {
+    "id": "curry-leaf",
+    "name": "Curry Leaf Plant (Kariveppilai)",
+    "tamilName": "கறிவேப்பிலை (Kariveppilai)",
+    "scientificName": "Murraya koenigii",
+    "category": "Flowers, Medicinal and Other Plants",
+    "icon": "🍃",
+    "growthPeriod": "Perennial (20+ Years)",
+    "optimalTemperature": "22°C – 35°C",
+    "waterNeed": "Moderate",
+    "soilType": "Deep, fertile red sandy loam and alluvial soil with good drainage",
+    "sunlight": "Bright warm sunshine; thrives in semi-arid and tropical climates",
+    "majorTNRegions": [
+      "Coimbatore (Mettupalayam Hub)",
+      "Erode",
+      "Salem",
+      "Tiruchirappalli",
+      "Dindigul"
+    ],
+    "stages": [
+      {
+        "stage": "Seedling / Sucker Growth",
+        "duration": "Year 1-2",
+        "description": "Develops into a small aromatic tree with dark grey bark."
+      },
+      {
+        "stage": "Bushy Pruned Flush",
+        "duration": "60-75 Days Cycle",
+        "description": "Periodic pruning at 1 meter height forces dense aromatic leafy flushes."
+      },
+      {
+        "stage": "Pinnate Compound Leaves",
+        "duration": "45-60 Days",
+        "description": "Highly aromatic shiny green leaflets rich in volatile essential oils."
+      },
+      {
+        "stage": "Commercial Harvest",
+        "duration": "Every 2.5-3 months",
+        "description": "Entire leafy shoots harvested and bunched for Chennai and export markets."
+      }
+    ],
+    "commonDiseases": [
+      "Leaf Spot",
+      "Citrus Psyllid Vector",
+      "Powdery Mildew"
+    ],
+    "funFact": "Mettupalayam in Coimbatore district is the 'Curry Leaf Hub of India', sending fresh aromatic bundles daily to markets across India and the Middle East!",
+    "harvestYield": "20 – 25 tonnes / hectare",
+    "basicPractices": [
+      "Prune bushes periodically at 1 meter height to trigger fresh, tender, aromatic leafy flushes.",
+      "Apply 20 kg FYM and 150 g Urea per bush after every harvest flush.",
+      "Spray Neem oil 2% or bio-pesticides to control psyllids without chemical pesticide residues."
+    ],
+    "diseaseKey": "curry-leaf-spot",
+    "diseaseName": "Curry Leaf Spot",
+    "scientificDisease": "Cercospora murrayae",
+    "tamilDisease": "கறிவேப்பிலை இலைப்புள்ளி நோய்",
+    "confidence": 93,
+    "healthStatus": "Needs Attention",
+    "severity": "Medium",
+    "symptoms": [
+      "Minute dark brown to black circular spots scattered across aromatic leaflets",
+      "Spots coalesce, turning leaf tips yellow and causing premature leaflet defoliation",
+      "Blemished leaflets are rejected in fresh culinary markets"
+    ],
+    "cause": "Fungal pathogen Cercospora murrayae spreading during warm rainy weather.",
+    "prevention": [
+      "Foliar spray with Carbendazim 50% WP @ 1.0 g/L or Mancozeb @ 2.0 g/L with 15-day pre-harvest waiting period",
+      "Spray safe bio-fungicide Trichoderma viride @ 5.0 g/L for residue-free culinary herbs",
+      "Thin congested branches to improve interior sunlight and aeration"
+    ]
+  },
+  {
+    "id": "coriander",
+    "name": "Coriander (Kothamalli)",
+    "tamilName": "கொத்தமல்லி (Kothamalli)",
+    "scientificName": "Coriandrum sativum",
+    "category": "Flowers, Medicinal and Other Plants",
+    "icon": "🌿",
+    "growthPeriod": "40 – 45 Days (Leaf) / 85 – 100 Days (Seed)",
+    "optimalTemperature": "18°C – 28°C",
+    "waterNeed": "Moderate",
+    "soilType": "Rich, fertile, well-drained loamy and black cotton soils rich in organic matter",
+    "sunlight": "Bright mild sunshine; hot scorching heat triggers premature bolting",
+    "majorTNRegions": [
+      "Thoothukudi",
+      "Virudhunagar",
+      "Ramanathapuram",
+      "Dindigul",
+      "Coimbatore",
+      "Salem"
+    ],
+    "stages": [
+      {
+        "stage": "Split Seed Germination",
+        "duration": "8-12 Days",
+        "description": "Split 'dhania' mericarps sprout tender feathery aromatic cotyledons."
+      },
+      {
+        "stage": "Rosette Leaf Flush",
+        "duration": "25-35 Days",
+        "description": "Tender fan-lobed aromatic green leaves ready for culinary fresh bunch harvest."
+      },
+      {
+        "stage": "Bolting & Umbel Bloom",
+        "duration": "20-25 Days",
+        "description": "Feathery filiform leaves top slender stems bearing white or pale pink compound umbels."
+      },
+      {
+        "stage": "Dhania Seed Ripening",
+        "duration": "25-30 Days",
+        "description": "Globular aromatic ribbed seeds turn from green to light golden-brown."
+      }
+    ],
+    "commonDiseases": [
+      "Powdery Mildew",
+      "Wilt",
+      "Stem Gall"
+    ],
+    "funFact": "Coriander is a dual-purpose culinary marvel: its fresh green leaves ('Kothamalli Thazhai') garnish every Tamil dish, while its aromatic dried seeds ('Dhania') form the backbone of sambar powder!",
+    "harvestYield": "6 – 8 tonnes / hectare (Greens)",
+    "basicPractices": [
+      "Gently crush whole coriander seeds into two split halves (mericarps) before sowing to double germination speed.",
+      "Soak split seeds in water for 12 hours with Trichoderma viride @ 4 g/kg seed.",
+      "Harvest fresh greens 35–45 days after sowing before high temperatures cause bolting."
+    ],
+    "diseaseKey": "coriander-powdery-mildew",
+    "diseaseName": "Powdery Mildew",
+    "scientificDisease": "Erysiphe polygoni",
+    "tamilDisease": "கொத்தமல்லி சாம்பல் நோய்",
+    "confidence": 94,
+    "healthStatus": "Needs Attention",
+    "severity": "High",
+    "symptoms": [
+      "White powdery talcum-like patches appear on feathery leaves and umbel flower heads",
+      "Powdery coating covers the entire plant, causing leaves to yellow, wither, and dry up",
+      "Umbels fail to set seeds, or seeds become shrivelled, blackened, and unmarketable"
+    ],
+    "cause": "Airborne fungal pathogen Erysiphe polygoni favored by cool dry days with high morning humidity during flowering.",
+    "prevention": [
+      "Foliar spray with Wettable Sulphur 80% WP @ 2.0 g/L or Dinocap @ 1.0 ml/L at flowering onset",
+      "Dust fine sulphur powder @ 20 kg/ha in early morning hours",
+      "Cultivate powdery mildew tolerant varieties like CO 4 and Sadhana"
+    ]
+  },
+  {
+    "id": "teak",
+    "name": "Teak Tree (Thekku)",
+    "tamilName": "தேக்கு மரம் (Thekku)",
+    "scientificName": "Tectona grandis",
+    "category": "Flowers, Medicinal and Other Plants",
+    "icon": "🪵",
+    "growthPeriod": "Perennial (20–40 Years)",
+    "optimalTemperature": "24°C – 38°C",
+    "waterNeed": "Moderate",
+    "soilType": "Deep, fertile, well-drained alluvial and moist red loamy soils with high calcium; hates waterlogging",
+    "sunlight": "Demanding full solar exposure; large deciduous leaves capture high sunlight",
+    "majorTNRegions": [
+      "Thanjavur (Canal Banks)",
+      "Tiruchirappalli",
+      "Dindigul",
+      "Salem",
+      "Theni",
+      "Coimbatore"
+    ],
+    "stages": [
+      {
+        "stage": "Stump / Tissue Culture Planting",
+        "duration": "Year 1-2",
+        "description": "Root stumps or tissue culture saplings sprout vigorous straight leader shoots."
+      },
+      {
+        "stage": "Grand Trunk Elongation",
+        "duration": "Year 3-10",
+        "description": "Pruned clean cylindrical bole reaches 10–18 meters height with massive opposite leaves."
+      },
+      {
+        "stage": "Heartwood Girth Bulking",
+        "duration": "Year 11-25",
+        "description": "Golden-brown heartwood rich in natural preservative tectoquinones matures."
+      },
+      {
+        "stage": "Timber Maturity & Harvest",
+        "duration": "Year 25-35",
+        "description": "Valuable timber harvested for luxury furniture, shipbuilding, and architectural woodwork."
+      }
+    ],
+    "commonDiseases": [
+      "Teak Leaf Skeletonizer",
+      "Teak Defoliator",
+      "Leaf Rust"
+    ],
+    "funFact": "Teak timber contains natural natural silica and aromatic oils (tectoquinone) that make it 100% immune to termites, weathering, and fungal rot for centuries!",
+    "harvestYield": "15 – 25 cubic feet prime heartwood / tree",
+    "basicPractices": [
+      "Plant root-shoot stumps (1 cm thickness) in 45 cm³ pits spaced 3 x 3 m.",
+      "Prune side branches cleanly along the main stem up to 6 meters height to produce knot-free timber.",
+      "Dig contour trenches to harvest rainwater on farm boundary agroforestry plantings."
+    ],
+    "diseaseKey": "teak-leaf-skeletonizer",
+    "diseaseName": "Teak Leaf Rust & Skeletonizer",
+    "scientificDisease": "Olivea tectonae",
+    "tamilDisease": "தேக்கு இலைத்துரு / இலை எலும்புக்கூடு நோய்",
+    "confidence": 92,
+    "healthStatus": "Needs Attention",
+    "severity": "Medium",
+    "symptoms": [
+      "Thousands of tiny yellowish-brown rust pustules on the lower surface of massive teak leaves",
+      "Leaves turn brownish-grey and brittle, drying up prematurely across the canopy",
+      "Larvae skeletonize the green parenchymal tissue, leaving only bare lace-like leaf veins"
+    ],
+    "cause": "Fungal pathogen Olivea tectonae combined with seasonal leaf skeletonizer caterpillar attacks post-monsoon.",
+    "prevention": [
+      "Spray Mancozeb @ 2.0 g/L or Wettable Sulphur @ 2.5 g/L on young agroforestry saplings",
+      "Apply bio-insecticide Bacillus thuringiensis (Bt) @ 2.0 g/L to suppress skeletonizer caterpillars",
+      "Collect and burn fallen dried leaves in autumn to destroy overwintering pupae and fungal spores"
+    ]
+  }
+]
